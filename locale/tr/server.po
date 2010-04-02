@@ -1,0 +1,61 @@
+# Translations template for PROJECT.
+# Copyright (C) 2010 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# Automatically generated, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2010-04-03 00:22+0200\n"
+"PO-Revision-Date: 2010-04-03 00:22+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Central"
+msgstr ""
+
+#, python-format
+msgid ""
+"There are currently <strong>%(current_user_count)s users</strong> online,\n"
+"    in a total of <strong>%(current_thread_count)s threads</strong>."
+msgstr ""
+
+#, python-format
+msgid ""
+"Since the <code>World Of Photo</code>'s creation,\n"
+"    <strong>%(total_user_count)s users</strong> have sent\n"
+"    <strong>%(total_photo_count)s photos</strong> in\n"
+"    <strong>%(total_thread_count)s threads</strong>."
+msgstr ""
+
+#, python-format
+msgid ""
+"The longest thread so far passed over <strong>%(node_count)s nodes</strong>"
+msgstr ""
+
+msgid "and is still ongoing"
+msgstr ""
+
+#, python-format
+msgid ""
+"You have received <strong>%(user_photo_received)s photos</strong>,\n"
+"    and <strong>sent %(user_photo_sent)s</strong> yourself."
+msgstr ""
+
+#, python-format
+msgid ""
+"On average, the photos you sent have been rated\n"
+"    <strong>%(user_photo_rating)s stars</strong> by your peers."
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Upcoming"
+msgstr ""
