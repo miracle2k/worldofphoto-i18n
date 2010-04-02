@@ -1,0 +1,963 @@
+# Translations template for PROJECT.
+# Copyright (C) 2010 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2010-03-30 11:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev-r0\n"
+
+msgctxt "translator_credit"
+msgid "(Your Name &lt;Your E-Mail or Site&gt;)"
+msgstr "(Abdullah Alshaya &lt;crackjas@gmail.com&gt;)"
+
+msgctxt "error"
+msgid "Error"
+msgstr "خطأ"
+
+msgctxt "warning"
+msgid "Warning"
+msgstr "تحذير"
+
+msgctxt "note"
+msgid "Please Note"
+msgstr "يرجى ملاحظة"
+
+msgctxt "compass_n"
+msgid "N"
+msgstr "ش"
+
+msgctxt "compass_ne"
+msgid "NE"
+msgstr "ش.ق"
+
+msgctxt "compass_e"
+msgid "E"
+msgstr "ق"
+
+msgctxt "compass_se"
+msgid "SE"
+msgstr "ج.ق"
+
+msgctxt "compass_s"
+msgid "S"
+msgstr "ج"
+
+msgctxt "compass_sw"
+msgid "SW"
+msgstr "ج.غ"
+
+msgctxt "compass_w"
+msgid "W"
+msgstr "غ"
+
+msgctxt "compass_nw"
+msgid "NW"
+msgstr "ش.غ"
+
+msgctxt "content_warning"
+msgid ""
+"Do not send photos whose contents are obscene, illegal to distribute "
+"under German law, or otherwise inappropriate. If we find that you "
+"maliciously do so, your device will be blocked from this game.\n"
+"\n"
+"Other than that, have fun!"
+msgstr ""
+"لا ترسل صور ذات محتوى فاحش , أو مخالف لقوانين النشر في ألمانيا , أو على "
+"نحو غير لائق. إذا وجدنا إنك أسأت إستخدام البرنامج , جهازك سيحجب من هذه "
+"اللعبة. \n"
+"\n"
+"عدا ذلك , استسمتع باللعبة!"
+
+msgctxt "error_full"
+msgid ""
+"I'm sorry, but all servers are currently full. Hopefully, we're already "
+"working on adding more capacity. Try again later!"
+msgstr ""
+"عذرا , جميع الخوادم ممتلئة حاليا. نأمل على عمل إضافة سعات أكثر. حاول مرة "
+"أخرى!"
+
+msgctxt "error_banned"
+msgid ""
+"You have been banned from this game. If you believe this to have happened"
+" in error, please contact us."
+msgstr ""
+"أنت محظور من هذه اللعبة. إذا تعتقد أن هذا قد حدث عن طريق الخطأ , الرجاء "
+"الإتصال بنا."
+
+msgctxt "requirements_unmet_title"
+msgid "Unmet system requirements"
+msgstr "غير مطابق لمتطلبات النظام"
+
+msgctxt "location_requirent_unmet"
+msgid ""
+"You device does not support a location provider to determine your "
+"location. This is required to play the game, sorry."
+msgstr ""
+"للأسف جهازك لا يدعم وظيفة محدد المواقع لتحديد موقعك. هذه الوظيفة مطلوبة "
+"لتلعب اللعبة."
+
+msgctxt "exit"
+msgid "Exit"
+msgstr "خروج"
+
+msgctxt "logout"
+msgid "Switch User"
+msgstr "تبديل المستخدم"
+
+msgctxt "help"
+msgid "Help"
+msgstr "تعليمات"
+
+msgctxt "debug"
+msgid "Debug"
+msgstr "معالجة"
+
+msgctxt "map_mode"
+msgid "Map Mode"
+msgstr "صيغة الخريطة"
+
+msgctxt "show_myself"
+msgid "Myself"
+msgstr "مكاني"
+
+msgctxt "edit_profile"
+msgid "Edit Profile"
+msgstr "تعديل الملف التعريفي"
+
+msgctxt "friends"
+msgid "Friends"
+msgstr "الأصدقاء"
+
+msgctxt "more"
+msgid "More"
+msgstr "أكثر"
+
+msgctxt "preferences"
+msgid "Preferences"
+msgstr "الخيارات"
+
+msgctxt "feedback"
+msgid "Feedback"
+msgstr "ملاحظات"
+
+msgctxt "central"
+msgid "Central"
+msgstr "مركز المعلومات"
+
+msgctxt "update_location"
+msgid "Update my location"
+msgstr "تحديث مكاني"
+
+msgctxt "no_location_providers_enabled"
+msgid "Sorry, you currently have no location providers enabled."
+msgstr "للأسف , لم تقم بتفعيل محدد المواقع في الوقت الحالي."
+
+msgctxt "exit_warning"
+msgid ""
+"If you exit, you will no longer participate in the game. Are you sure? \n"
+"\n"
+"If you want to keep playing, you can instead leave the application using "
+"the BACK button."
+msgstr ""
+"إذا قمت بالخروج, لن تشارك باللعبة. هل أنت متأكد؟ \n"
+"\n"
+"إذا كنت ترغب في الاستمرار في اللعب, يمكنك بدلا من ذلك ترك التطبيق "
+"باستخدام زر الرجوع."
+
+msgctxt "try_sys_camera"
+msgid ""
+"Something went wrong - I'm unable to find the picture you just made. If "
+"you are using a third party camera, it may not support proper usage by "
+"other applications.\n"
+"\n"
+"Should I try to start the system camera?"
+msgstr ""
+"لقد حصل خطأ ما - أنا غير قادر على العثور على الصورة التي إلتقطتها. قد لا "
+"يعمل بشكل سليم إذا استخدمت تطبيق كاميرا من طرف ثالث. \n"
+"\n"
+"هل يجب أن أحاول تشغيل كاميرا النظام؟"
+
+msgctxt "try_sys_camera_failed"
+msgid ""
+"Failed to start the system camera application. Sorry, there is nothing "
+"more I can do."
+msgstr ""
+"فشل في تشغيل تطبيق كاميرا النظام. عذرا , ليس هناك شيء يمكنني القيام به "
+"أكثر."
+
+msgctxt "open_camera_failed"
+msgid ""
+"Failed to find a camera application. You will need one before you can "
+"make photos."
+msgstr ""
+"فشل في إيجاد تطبيق الكاميرا. من الضروري أن تكون عندك واحدة قبل إلتقاط "
+"الصور."
+
+msgctxt "notify_title_generic"
+msgid "@string/app_name"
+msgstr "@ترادف/اسم_التطبيق"
+
+#, python-format
+msgctxt "notify_make_photo_confirm_msg"
+msgid "%s has asked you to make a photo."
+msgstr "%s طلب منك إلتقاط صورة."
+
+#, python-format
+msgctxt "notify_make_photo_msg"
+msgid "You promised %s a photo."
+msgstr "لقد وعدت %s بصورة."
+
+msgctxt "notify_spin_msg"
+msgid "It is now your turn to spin."
+msgstr "لقد أتى دورك الآن لتقم بتدوير الجهاز."
+
+#, python-format
+msgctxt "notify_message_received_msg"
+msgid "%s has sent you a message."
+msgstr "%s أرسل إليك رسالة."
+
+#, python-format
+msgctxt "notify_photo_received_msg"
+msgid "%s has sent you a photo."
+msgstr "%s أرسل إليك صورة."
+
+#, python-format
+msgctxt "notify_vote_msg"
+msgid "%s has rated your photo %d stars."
+msgstr "%s قيم صورتك ب%d نجوم."
+
+msgctxt "generic_removed_error"
+msgid ""
+"I'm not sure what happened, but the server removed you from your previous"
+" thread. Sorry."
+msgstr "لست متأكداً بما حدث. عذرا , لكن الخادم أزالك من المجموعة السابقة."
+
+msgctxt "waiting_title_initial"
+msgid "Welcome! This is you."
+msgstr "مرحبا بك! هذا أنت."
+
+msgctxt "waiting_title"
+msgid "This is you."
+msgstr "هذا أنت."
+
+msgctxt "waiting_text"
+msgid ""
+"You need to wait until somebody selects you. This shouldn't take too "
+"long, but feel free to close the app, we will notify you."
+msgstr ""
+"أنت بحاجة للإنتظار حتى يختارك شخص ما. لا ينبغي أن يستغرق وقتا طويلا, لديك"
+" الحرية في إغلاق التطبيق, وسنعلمك بذلك."
+
+msgctxt "waiting_error"
+msgid "I'm sorry, there are currently enough active threads already."
+msgstr "أنا آسف, يوجد حاليا ما يكفي من مجموعات نشطة بالفعل."
+
+msgctxt "spin_now_title_continue"
+msgid "Continue the thread!"
+msgstr "إستمر بالمجموعة!"
+
+msgctxt "spin_now_title_asked"
+msgid "The server selected you!"
+msgstr "لقد تم اختيارك من الملقم!"
+
+msgctxt "spin_now_text"
+msgid ""
+"Spin your phone on a plain surface, or simply shake it to select a random"
+" user. You can also point into a direction, then press this button:"
+msgstr ""
+"قم بتدوير تلفونك على سطح منبسط, أو ببساطة هزه لتختار مستخدم عشوائي. "
+"تستطيع أيضا تحديد الإتجاه, ثم إضغط هذا الزر:"
+
+msgctxt "spin_now_caption"
+msgid "Continue"
+msgstr "إستمرار"
+
+msgctxt "spin_now_error"
+msgid "You license to spin has been revoked."
+msgstr "تم إلغاء حرية التدوير."
+
+msgctxt "finding_peer_text"
+msgid "Please wait. I am trying to find you a peer..."
+msgstr "الرجاء الإنتظار. أنا أحاول إيجاد شريكك..."
+
+msgctxt "finding_peer_error"
+msgid ""
+"Couldn't find a partner! Either everybody is busy right now, or no one is"
+" playing this sorry excuse for a game. Maybe invite some friends?"
+msgstr ""
+"لا يمكن العثور على شريك! إما الجميع مشغولين الآن, أو لا أحد يلعب هذه "
+"اللعبة. ما رأيك بدعوة بعض الأصدقاء؟"
+
+#, python-format
+msgctxt "await_confirm_title"
+msgid "Determined %s as a possible candidate."
+msgstr "تم تأكيد %s كمرشح محتمل."
+
+msgctxt "await_confirm_text"
+msgid "Waiting for the user to confirm..."
+msgstr "في إنتظار تأكيد المستخدم..."
+
+msgctxt "await_confirm_error"
+msgid "Nope, that wasn't the right match. Still looking..."
+msgstr "كلا, هذا لم يكن شريكك المناسب. جاري البحث..."
+
+#, python-format
+msgctxt "await_photo_title"
+msgid "%s is now making a photo for you."
+msgstr "%s حاليا يلتقط صورة لك..."
+
+msgctxt "await_photo_text"
+msgid ""
+"Feel free to leave the application, you will be notified once your photo "
+"is ready."
+msgstr "لديك الحرية في ترك التطبيق. سيتم إعلامك عندما تكون الصورة جاهزة."
+
+msgctxt "await_photo_error"
+msgid ""
+"The previous user dropped out on you, sorry. Let's go easy on him - it "
+"might have been a technical issue."
+msgstr ""
+"المستخدم السابق انقطع عنك, آسف. ترفق به ولا تظن به السوء - قد تكون هناك "
+"مشكلة تقنية."
+
+#, python-format
+msgctxt "asked_to_make_photo_title"
+msgid "%s would like you to make a photo."
+msgstr "%s يود منك إلتقاط صورة له."
+
+msgctxt "asked_to_make_photo_text"
+msgid "Are you up to it? Once you accept, you will need to complete the job."
+msgstr "هل أنت حازم؟ ما إن توافق, ستحتاج إكمال المهمة."
+
+msgctxt "asked_to_make_photo_accept_caption"
+msgid "Make Photo"
+msgstr "إلتقاط صورة"
+
+msgctxt "asked_to_make_photo_deny_caption"
+msgid "I'm busy"
+msgstr "أنا مشغول"
+
+msgctxt "asked_to_make_photo_error"
+msgid "Somebody else will have all the fun now."
+msgstr "هناك آخرون سيكون عندهم كل المرح الآن."
+
+#, python-format
+msgctxt "making_photo_title"
+msgid "%s is waiting for a photo from you."
+msgstr "%s ينتظر صورة منك."
+
+msgctxt "making_photo_text"
+msgid ""
+"Let's not have them wait too long. Look around you and snap a picture of "
+"something pretty!"
+msgstr "دعنا لا نجعلهم ينتظرون طويلا. انظر من حولك وإلتقط صورة لشيء ما جميل."
+
+msgctxt "making_photo_caption"
+msgid "Open Camera"
+msgstr "فتح الكاميرا"
+
+msgctxt "making_photo_error"
+msgid ""
+"You took too long to make your photo. It's rude to stand someone up; "
+"please try to be a bit quicker next time."
+msgstr ""
+"لقد أخذت وقتا طويلا لإلتقاط صورتك. هذه وقاحة لجعل شخص ما ينتظر;الرجاء "
+"حاول أن تكون أسرع قليلا في المرة القادمة."
+
+msgctxt "uploading_title"
+msgid "Great! Please hold on while I'm uploading..."
+msgstr "عظيم! الرجاء الإنتظار بينما أنا أقوم بالرفع..."
+
+msgctxt "uploading_text"
+msgid "If you're on a slow connection, this can take a bit."
+msgstr "إذا كان لديك إتصال بطيء, هذا يمكن أن يستغرق قليلا."
+
+msgctxt "uploading_preprocess_error"
+msgid "Sorry, something went wrong, I couldn't prepare your image."
+msgstr "عذرا ، حدث خطأ ما ، لم أتمكن من إعداد الصورة."
+
+#, python-format
+msgctxt "thread_num_text"
+msgid "You are No. %d in this thread."
+msgstr "أنت الرقم %d في هذه المجموعة."
+
+msgctxt "no_connectivity"
+msgid "No connectivity."
+msgstr "لا يوجد اتصال"
+
+msgctxt "no_connectivity_detail"
+msgid "There doesn't seem to be a network at your current location."
+msgstr "لا يبدو أن هناك شبكة في موقعك الحالي."
+
+msgctxt "no_connectivity_temp"
+msgid "Your phone is switching networks, hold on..."
+msgstr "هاتفك يقوم بتغيير الشبكة, إنتظر..."
+
+msgctxt "reconnection_scheduled"
+msgid "Will try to reconnect soon."
+msgstr "سيحاول إعادة الاتصال حالا."
+
+msgctxt "connecting"
+msgid "Connecting..."
+msgstr "يتصل..."
+
+msgctxt "reconnecting"
+msgid "Reconnecting..."
+msgstr "إعادة إتصال..."
+
+msgctxt "aquiring_location"
+msgid "Trying to determine your current location..."
+msgstr "محاولة تحديد موقعك الحالي..."
+
+msgctxt "connected_now_auth"
+msgid "Authenticating..."
+msgstr "بدء عملية التفويض..."
+
+msgctxt "auth_failed"
+msgid "Authentication failed."
+msgstr "فشلت عملية التفويض."
+
+msgctxt "location_temp_troubles"
+msgid "I'm having some trouble determining your location. Still trying."
+msgstr "أواجه بعض الصعوبة في تحديد موقعك. لا أزال أحاول."
+
+msgctxt "no_location"
+msgid "Location unavailable."
+msgstr "الموقع غير متاح."
+
+msgctxt "no_location_explain"
+msgid "To continue, you need to enable a location source."
+msgstr "للإستمرار, تحتاج إلى تفعيل مصدر الموقع."
+
+msgctxt "no_location_button"
+msgid "Open Settings"
+msgstr "فتح الإعدادات"
+
+msgctxt "connection_temp_troubles"
+msgid "Experiencing some difficulties. Hold on, still trying."
+msgstr "نواجه بعض الصعوبات. إنتظر, لا أزال أحاول."
+
+msgctxt "connection_failed"
+msgid "Connection failed."
+msgstr "فشل في الإتصال."
+
+msgctxt "connection_lost"
+msgid "Connection lost."
+msgstr "فقدان الإتصال."
+
+msgctxt "service_gone"
+msgid "Lost connection to background service."
+msgstr "تم فقدان الاتصال للخدمة."
+
+msgctxt "service_gone_explain"
+msgid ""
+"Possibly in low memory condition. Expect to be restarted by the system "
+"soon, hold on...."
+msgstr ""
+"ربما حالة الذاكرة منخفضة. نتوقع أن يكون عن طريق إعادة تشغيل النظام حالا, "
+"الرجاء الإنتظار..."
+
+msgctxt "downtime"
+msgid "Please check back later."
+msgstr "يرجى العودة في وقت لاحق."
+
+msgctxt "downtime_explanation"
+msgid ""
+"Sorry, we are currently doing server maintenance. This may take up to an "
+"hour."
+msgstr ""
+"آسف, هناك صيانة للخادم في الوقت الراهن. هذه قد تستغرق فترة تصل إلى ساعة "
+"واحدة."
+
+msgctxt "indic_disconnected"
+msgid "Disconnected."
+msgstr "غير متصل."
+
+msgctxt "indic_connected"
+msgid "Connected."
+msgstr "متصل."
+
+msgctxt "indic_connecting"
+msgid "Reconnecting..."
+msgstr "إعادة إتصال..."
+
+msgctxt "report"
+msgid "Report Image"
+msgstr "بلغ عن صورة"
+
+msgctxt "image_close_default"
+msgid "Comment & Back"
+msgstr "تعليق و عودة"
+
+msgctxt "image_close_send"
+msgid "Send & Close"
+msgstr "إرسال و إغلاق"
+
+msgctxt "image_close_skip"
+msgid "Skip & Close"
+msgstr "تخطى وإغلاق"
+
+msgctxt "save_to_disk"
+msgid "Save"
+msgstr "حفظ"
+
+msgctxt "mediastore_tagline"
+msgid "[I came from a World of Photo]"
+msgstr "[جئت من عالم الصور]"
+
+msgctxt "saved_to_store_success"
+msgid "I've added this photo to your gallery."
+msgstr "لقد أضفت هذه الصورة في معرض الصور الخاص بك."
+
+msgctxt "saved_to_store_failed"
+msgid ""
+"Unable to add this photo to your gallery. Make sure you're SD Card is "
+"available."
+msgstr ""
+"غير قادر على إضافة هذه الصورة في معرض الصور الخاص بك.تأكد من وجود بطاقة "
+"الذاكرة."
+
+msgctxt "report_success"
+msgid "Thank you! Our team will have a look."
+msgstr "شكرا لك! فريق العمل سيطلع عليها."
+
+msgctxt "photo_response_hint"
+msgid "Send an optional response."
+msgstr "قم بإرسال رد إختياري."
+
+#, python-format
+msgctxt "suggest_rating_text"
+msgid "Tell %s how you liked this photo."
+msgstr "اخبر %s كيف أحببت هذه الصورة."
+
+#, python-format
+msgctxt "num_stars"
+msgid "%d stars"
+msgstr "%d نجوم"
+
+msgctxt "no_rating"
+msgid "No rating"
+msgstr "لا يوجد تقييم"
+
+msgctxt "photo_by_intro"
+msgid "Photo by:"
+msgstr "الصورة من قبل:"
+
+msgctxt "comment_send_no_connection"
+msgid ""
+"You are currently not connected to the server. If you continue now, your "
+"feedback will not be sent. Are you sure?"
+msgstr ""
+"أنت حاليا غير متصل بالملقم. إذا تريد الاستمرار, لن يتم إرسال ملاحظاتك. هل"
+" أنت متأكد؟"
+
+msgctxt "feedback_sent"
+msgid "Feedback sent!"
+msgstr "تم إرسال الملاحظة!"
+
+msgctxt "message_by_intro"
+msgid "Message by:"
+msgstr "الرسالة من قبل:"
+
+#, python-format
+msgctxt "message_rating_info"
+msgid "&lt;b&gt;%s&lt;/b&gt; has rated your photo &lt;b&gt;%d stars&lt;/b&gt;."
+msgstr "&lt;b&gt;%s&lt;/b&gt; قيم صورتك &lt;b&gt;%d نجوم&lt;/b&gt;."
+
+msgctxt "respond_to_message"
+msgid "Compose a Reply"
+msgstr "كتابة رد"
+
+msgctxt "submit_response"
+msgid "Send Reply"
+msgstr "إرسال رد"
+
+msgctxt "reply_sent"
+msgid "Reply sent!"
+msgstr "تم إرسال الرد!"
+
+msgctxt "dispose_reply_warning"
+msgid ""
+"You reply has not been sent yet. If you continue, you will lose the "
+"ability to respond to this message. Are you sure?"
+msgstr ""
+"لم يتم إرسال الرد بعد. إذا تريد الإستمرار, ستفقد القدرة على الرد على هذه "
+"الرسالة. هل أنت متأكد؟"
+
+msgctxt "central_loading"
+msgid "Loading, hold on..."
+msgstr "جاري التحميل, يرجى الإنتظار..."
+
+msgctxt "nickname_label"
+msgid "Nickname:"
+msgstr "الإسم المستعار:"
+
+msgctxt "nickname_explanation"
+msgid ""
+"Note that this is the name that is displayed in your profile. The "
+"username with which you log in is not changed."
+msgstr ""
+"يرجى ملاحظة بأن هذا الإسم ظاهر في ملف تعريفك. إسم المستخدم الذي قمت "
+"بتسجيل دخوله لم يتغير."
+
+msgctxt "bio_label"
+msgid "Bio:"
+msgstr "سيرتك الذاتية:"
+
+msgctxt "bio_hint"
+msgid "Something short about you."
+msgstr "نبذة قصيرة عنك."
+
+msgctxt "no_nickname_error"
+msgid "You must provide a nickname."
+msgstr "يجب تزويد اسم مستعار."
+
+msgctxt "save_changes"
+msgid "Done"
+msgstr "تم"
+
+msgctxt "revert_changes"
+msgid "Revert"
+msgstr "العودة"
+
+msgctxt "profile_save_no_connection"
+msgid ""
+"You are currently not connected to the server. If you continue now, your "
+"changes will not be saved. Are you sure?"
+msgstr ""
+"أنت حاليا غير متصل بالملقم. إذا تريد الاستمرار الآن, لن يتم حفظ "
+"التغييرات. هل أنت متأكد؟"
+
+msgctxt "no_imsi_title"
+msgid "No IMSI"
+msgstr "لا توجد هوية IMSI محددة للهاتف المحمول"
+
+msgctxt "no_imsi_msg"
+msgid ""
+"Sorry, autologin is not possible on this device. You are probably missing"
+" a SIM card."
+msgstr ""
+"آسف, الدخول التلقائي غير متاح في هذا الجهاز. من الممكن ان شريحة الهاتف "
+"المحمول مفقودة."
+
+msgctxt "setup_intro_header"
+msgid "As a multiplayer online game, we need to identify you as a player."
+msgstr "كما أنها لعبة جماعية حية على الانترنت, نحن بحاجة إلى التعرف عليك كلاعب."
+
+msgctxt "autologin_title"
+msgid "Just want to give it a whirl?"
+msgstr "نريده فقط أن تقوم بتدويره؟"
+
+msgctxt "autologin_explain"
+msgid "Your account will be bound to your phone number and device."
+msgstr "الحساب الخاص بك سوف يكون مقيد برقم الهاتف الخاص بك وجهازك."
+
+msgctxt "autologin_action"
+msgid "Start playing right away"
+msgstr "البدء باللعب الآن"
+
+msgctxt "login_title"
+msgid "Want to have a permanent username?"
+msgstr "هل تريد إسم مستخدم دائم؟"
+
+msgctxt "login_explain"
+msgid "Creating an acount will allow you to log in from anywhere."
+msgstr "إنشاء الحساب سيمكنك من دخوله من أي مكان."
+
+msgctxt "login_action"
+msgid "Choose a username and password"
+msgstr "اختر اسم المستخدم وكلمة المرور"
+
+msgctxt "register_title"
+msgid "You've played before?"
+msgstr "هل لعبت مسبقا؟"
+
+msgctxt "register_explain"
+msgid "Continue using an account you've set up previously."
+msgstr "الاستمرار في استخدام حساب قمت بإعداده سابقا."
+
+msgctxt "register_action"
+msgid "Login with your existing username"
+msgstr "تسجيل الدخول باسم المستخدم الحالي"
+
+msgctxt "register"
+msgid "Register"
+msgstr "تسجيل"
+
+msgctxt "login"
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgctxt "new_account"
+msgid "New Account"
+msgstr "حساب جديد"
+
+msgctxt "username_label"
+msgid "Username:"
+msgstr "اسم المستخدم:"
+
+msgctxt "password_label"
+msgid "Password:"
+msgstr "كلمة المرور:"
+
+msgctxt "password_repeat_label"
+msgid "Password (repeat):"
+msgstr "إعادة كتابة كلمة المرور:"
+
+msgctxt "username_missing_register"
+msgid "Please choose a username."
+msgstr "الرجاء اختيار اسم المستخدم."
+
+msgctxt "username_missing_login"
+msgid "Please enter your username."
+msgstr "الرجاء إدخال اسم المستخدم الخاص بك."
+
+msgctxt "password_missing_register"
+msgid "Please choose a password."
+msgstr "الرجاء اختيار كلمة المرور."
+
+msgctxt "password_missing_login"
+msgid "Please enter your password."
+msgstr "الرجاء إدخال كلمة المرور."
+
+msgctxt "passwords_not_matching"
+msgid "Passwords do not match."
+msgstr "لا تتطابق كلمات المرور."
+
+msgctxt "login_failed"
+msgid "Your username or password was incorrect."
+msgstr "اسم المستخدم أو كلمة المرور غير صحيحة."
+
+msgctxt "register_failed"
+msgid "Sorry, the username you have chosen is not available."
+msgstr "عذرا ، اسم المستخدم الذي اخترته غير متوفر."
+
+msgctxt "onboot_pref_title"
+msgid "Resume on boot"
+msgstr "استكمال التطبيق وقت الاقلاع"
+
+msgctxt "onboot_pref_summary"
+msgid "Automatically connect on boot if connected before shutdown."
+msgstr "الاتصال تلقائيا خلال الاقلاع لو كان متصلا قبل إغلاق الجهاز."
+
+msgctxt "compass_spin_pref_title"
+msgid "Compass Spin enabled"
+msgstr "تفعيل تدوير البوصلة"
+
+msgctxt "compass_spin_pref_summary"
+msgid "Disable if it makes problems. It's a gimmick anyway!"
+msgstr "قم بتعطيله اذا حصلت مشاكل. إنها فقط وسيلة تحايل على أي حال!"
+
+msgctxt "selection_freq_pref_title"
+msgid "Selection Frequency"
+msgstr "إختيار التردد"
+
+msgctxt "selection_freq_pref_summary"
+msgid "Just as a recommendation to the server. No guarantees!"
+msgstr "فقط توصية للملقم. لا توجد ضمانات!"
+
+msgctxt "selection_freq_value_half"
+msgid "Once every half hour"
+msgstr "مرة واحدة كل نصف ساعة"
+
+msgctxt "selection_freq_value_one"
+msgid "Once every hour"
+msgstr "مرة واحدة كل ساعة"
+
+msgctxt "selection_freq_value_two"
+msgid "Every two hours"
+msgstr "كل ساعتين"
+
+msgctxt "selection_freq_value_three"
+msgid "Every three hours"
+msgstr "كل ثلاث ساعات"
+
+msgctxt "selection_freq_value_four"
+msgid "Every four hours"
+msgstr "كل أربع ساعات"
+
+msgctxt "vibrate_pref_title"
+msgid "Vibrate enabled"
+msgstr "تفعيل الاهتزاز"
+
+msgctxt "vibrate_pref_summary"
+msgid "Choose whether your phone should vibrate on an incoming event."
+msgstr "اختيار ما إذا كان ينبغي أن يهتز الهاتف على حدث قادم."
+
+msgctxt "distort_pos_pref_title"
+msgid "Distort location"
+msgstr "تزييف مكان الموقع"
+
+msgctxt "distort_pos_pref_summary"
+msgid "If you have privacy concerns, you can force an inaccurate location."
+msgstr "إذا كان لديك مخاوف متعلقة بالخصوصية ، يمكنك تحديد مكانك بشكل غير دقيق."
+
+msgctxt "distort_pos_value_do_not"
+msgid "Do not distort"
+msgstr "لا تزيف الموقع"
+
+msgctxt "distort_pos_value_200m"
+msgid "200 meters"
+msgstr "200 متر"
+
+msgctxt "distort_pos_value_500m"
+msgid "500 meters"
+msgstr "500 متر"
+
+msgctxt "distort_pos_value_1km"
+msgid "1 kilometer"
+msgstr "1 كم"
+
+msgctxt "distort_pos_value_5km"
+msgid "5 kilometers"
+msgstr "5 كم"
+
+msgctxt "distort_pos_value_10km"
+msgid "10 kilometers"
+msgstr "10 كم"
+
+msgctxt "play_steps"
+msgid "Step for Step"
+msgstr "خطوة بخطوة"
+
+msgctxt "skip"
+msgid "Skip"
+msgstr "تخطي"
+
+msgctxt "close_help"
+msgid "Close Help"
+msgstr "إغلاق التعليمات"
+
+msgctxt "intro_title"
+msgid "How it works"
+msgstr "كيف يعمل"
+
+msgctxt "intro_spin_title"
+msgid "You spin your phone."
+msgstr "قم بتدوير هاتفك"
+
+msgctxt "intro_spin_text"
+msgid "You can also just shake it, or point into a direction of your choosing."
+msgstr "ويمكنك أن تهزه أيضا, أو توجهه إلى أي إتجاه من إختيارك."
+
+msgctxt "intro_select_title"
+msgid "The player you pointed to is notified."
+msgstr "يتم إخطار اللاعب الذي قمت بالتوجيه إليه."
+
+msgctxt "intro_select_text"
+msgid ""
+"This is determined geographically based on your and the other player's "
+"location."
+msgstr "هذا يتحدد جغرافيا مستندا إلى موقعك وموقع اللاعب الآخر."
+
+msgctxt "intro_receive_photo_title"
+msgid "He takes a picture and sends it to you."
+msgstr "وثم يلتقط صورة ويرسله لك."
+
+msgctxt "intro_peerspin_title"
+msgid "The player then spins his own phone."
+msgstr "بعدئذ اللاعب يدور هاتفه الخاص."
+
+msgctxt "intro_peerspin_text"
+msgid "And thus selects someone who will send a photo to him."
+msgstr "وبالتالي يختار الشخص الذي سيتم إرسال الصورة له."
+
+msgctxt "intro_repeat_title"
+msgid "This is repeated..."
+msgstr "وتتكرر هذه العملية..."
+
+msgctxt "intro_send_photo_title"
+msgid "...until somebody selects you to take a picture."
+msgstr "...حتى يختارك شخص ما لإلتقاط صورة له."
+
+msgctxt "intro_final_title"
+msgid "That's it!"
+msgstr "هذا كل شيء!"
+
+msgctxt "intro_final_text"
+msgid ""
+"Remember that you can leave the application at any time. You will be "
+"notified when you are being selected."
+msgstr "تذكر أنه يمكنك ترك التطبيق في أي وقت. سوف يتم إبلاغك عندما يتم اختيارك."
+
+msgctxt "credits_title"
+msgid "Credits"
+msgstr "من عمل"
+
+#, python-format
+msgctxt "credits_text"
+msgid "Current translation by: %s"
+msgstr "الترجمة الحالية بواسطة: %s"
+
+msgctxt "faq_info_title"
+msgid "FAQ & Info"
+msgstr "أسئلة وأجوبة ومعلومات"
+
+msgctxt "faq_info_text"
+msgid ""
+"<b>I always seem to point in a different direction than the person I "
+"select is in.</b> \n"
+"\n"
+"First of all, who is selected depends obviously to a large extend on who "
+"is actually online, but also whether they are currently already in a "
+"thread of their own, or the selection frequency preference they have "
+"chosen. \n"
+"\n"
+"However, also consider that we are currently using a true (spherical) "
+"geodesy model to evaluate spins. That is, if you are in Europe pointing "
+"northwest, your extended line, if drawn on map, will pass as an arc "
+"straight through the United States and then at some point hit Australia. "
+"Try it on a globus, it's true. Currently, we don't visualize that very "
+"well inside the application. \n"
+"\n"
+"<b>How does the Autologin work?</b> \n"
+"\n"
+"It generates a username based on IDs on your SIM card and device, but "
+"note it never actually transmits the IDs themselves. \n"
+"\n"
+"<b>Spinning my device doesn't work properly.</b> \n"
+"\n"
+"Sorry about that. We are still working on it, though it's not easy. The "
+"sensors in different devices don't always behave the same, and the slow "
+"response times of the compass sensors are generally a problem. \n"
+"\n"
+"If the compass spin is triggering too easily, consider disabling it in "
+"the preferences. "
+msgstr ""
+"<b>يبدو لي دائما أن نشير في اتجاه مختلف عن الشخص الذي اخترته </b>\n"
+"\n"
+"بادئ ذي بدء ، إذا كان قد اختير يعتمد إلى حد كبير على من كان متصلا "
+"بالانترنت حاليا ، ولكن أيضا ما إذا كانوا بالفعل حاليا في متسلسلة خاصة بهم"
+" ، أو إذا اختيروا عن طريق خيارات التردد. \n"
+"\n"
+"ومع ذلك ، كما أننا نراعي باستخدام حقيقة نموذج جيوديسيا (الكروية) لتخمين "
+"التدوير. وهذا يعني ، إذا كنت في شمال غرب أوروبا مشيرا خطك الممتد على "
+"خريطة مرسومة ، سوف يمر هذا القوس على التوالي بخط مباشر نحو الولايات "
+"المتحدة ومن ثم من طرف ما تصيب أستراليا. حاول معها على القلوبوس , إنها "
+"حقيقة. حاليا , لا نتصور ذلك جيدا داخل التطبيق. \n"
+"\n"
+"<b>كيف يعمل الدخول التلقائي؟</b> \n"
+"\n"
+"إنه ينشيء إسم مستخدم اعتمادا على هوية شريحة الهاتف والجهاز, ولكن يجب "
+"ملاحظة بأنه لا يرسل هويات من تلقاء أنفسهم. \n"
+"\n"
+"<b>تدوير جهازي لا يعمل بشكل صحيح.</b>  \n"
+"\n"
+"نأسف على ذلك. نحن لا نزال نعمل على تحقيق ذلك ، على الرغم من انها ليست "
+"سهلة. أجهزة الاستشعار في الأجهزة المختلفة لا تعمل دائما بنفس الطريقة ، "
+"وأوقات الاستجابة البطيئة للبوصلة وأجهزة الاستشعار عموما تكون مسببة "
+"للمشكلة.\n"
+"\n"
+"إذا كانت تدوير البوصلة حساسة جدا ، يفضل تعطيله في الخيارات"
+

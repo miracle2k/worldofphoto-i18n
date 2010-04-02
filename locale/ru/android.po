@@ -1,0 +1,967 @@
+# Translations template for PROJECT.
+# Copyright (C) 2010 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2010-03-30 11:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev-r0\n"
+
+msgctxt "translator_credit"
+msgid "(Your Name &lt;Your E-Mail or Site&gt;)"
+msgstr "Konstantin Vishnevsky a.k.a. GRRemlin"
+
+msgctxt "error"
+msgid "Error"
+msgstr "Ошибка"
+
+msgctxt "warning"
+msgid "Warning"
+msgstr "Внимание!"
+
+msgctxt "note"
+msgid "Please Note"
+msgstr "Обратите внимание:"
+
+msgctxt "compass_n"
+msgid "N"
+msgstr "С"
+
+msgctxt "compass_ne"
+msgid "NE"
+msgstr "СВ"
+
+msgctxt "compass_e"
+msgid "E"
+msgstr "В"
+
+msgctxt "compass_se"
+msgid "SE"
+msgstr "ЮВ"
+
+msgctxt "compass_s"
+msgid "S"
+msgstr "Ю"
+
+msgctxt "compass_sw"
+msgid "SW"
+msgstr "ЮЗ"
+
+msgctxt "compass_w"
+msgid "W"
+msgstr "З"
+
+msgctxt "compass_nw"
+msgid "NW"
+msgstr "СЗ"
+
+msgctxt "content_warning"
+msgid ""
+"Do not send photos whose contents are obscene, illegal to distribute "
+"under German law, or otherwise inappropriate. If we find that you "
+"maliciously do so, your device will be blocked from this game.\n"
+"\n"
+"Other than that, have fun!"
+msgstr ""
+"Не высылайте фотографии, содержание которых непристойно или незаконно по "
+"законам Германии, или по общепринятым меркам. Если мы обнаружим, что вы "
+"высылаете такие фотографии, ваш аппарат будет заблокирован из игры.\n"
+"\n"
+"А так - наслаждайтесь игрой!"
+
+msgctxt "error_full"
+msgid ""
+"I'm sorry, but all servers are currently full. Hopefully, we're already "
+"working on adding more capacity. Try again later!"
+msgstr ""
+"Извините, но в данный момент все серверы загружены. Мы работаем на "
+"добавлением новых. Попробуйте позже."
+
+msgctxt "error_banned"
+msgid ""
+"You have been banned from this game. If you believe this to have happened"
+" in error, please contact us."
+msgstr ""
+"Вы были заблокированы из игры. Если вы считаете, это произошло по ошибке,"
+" пожалуйста, свяжитесь с нами."
+
+msgctxt "requirements_unmet_title"
+msgid "Unmet system requirements"
+msgstr "Неподходящие системные требования."
+
+msgctxt "location_requirent_unmet"
+msgid ""
+"You device does not support a location provider to determine your "
+"location. This is required to play the game, sorry."
+msgstr ""
+"Извините, но ваш аппарат не поддерживает обнаружение местонахождения. Эта"
+" функция обязательна для игры."
+
+msgctxt "exit"
+msgid "Exit"
+msgstr "Выход"
+
+msgctxt "logout"
+msgid "Switch User"
+msgstr "Сменить пользователя"
+
+msgctxt "help"
+msgid "Help"
+msgstr "Помощь"
+
+msgctxt "debug"
+msgid "Debug"
+msgstr "Отладка"
+
+msgctxt "map_mode"
+msgid "Map Mode"
+msgstr "Режим карты"
+
+msgctxt "show_myself"
+msgid "Myself"
+msgstr "Я"
+
+msgctxt "edit_profile"
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+msgctxt "friends"
+msgid "Friends"
+msgstr "Друзья"
+
+msgctxt "more"
+msgid "More"
+msgstr "Ещё"
+
+msgctxt "preferences"
+msgid "Preferences"
+msgstr "Настройки"
+
+msgctxt "feedback"
+msgid "Feedback"
+msgstr "Отзывы"
+
+msgctxt "central"
+msgid "Central"
+msgstr "Центр"
+
+msgctxt "update_location"
+msgid "Update my location"
+msgstr "Обновить моё местонахождение"
+
+msgctxt "no_location_providers_enabled"
+msgid "Sorry, you currently have no location providers enabled."
+msgstr "Сожалеем, но у вас не включен сервис обнаружения местонахождения."
+
+msgctxt "exit_warning"
+msgid ""
+"If you exit, you will no longer participate in the game. Are you sure? \n"
+"\n"
+"If you want to keep playing, you can instead leave the application using "
+"the BACK button."
+msgstr ""
+"Если вы выйдете, вы не сможете участвовать в игре. Вы уверены?\n"
+"\n"
+"Если вы хотите продолжить играть, вместо выхода нажмите кнопку \"Отмена\"."
+
+msgctxt "try_sys_camera"
+msgid ""
+"Something went wrong - I'm unable to find the picture you just made. If "
+"you are using a third party camera, it may not support proper usage by "
+"other applications.\n"
+"\n"
+"Should I try to start the system camera?"
+msgstr ""
+"Что-то пошло не так - не удалось обнаружить снимок, который вы только что"
+" сделали. Если вы используете стороннюю программу для фотографий, "
+"возможно она не поддерживать использование в других приложениях.\n"
+"Запустить системную камеру?"
+
+msgctxt "try_sys_camera_failed"
+msgid ""
+"Failed to start the system camera application. Sorry, there is nothing "
+"more I can do."
+msgstr ""
+"Не получилось запустить системную камеру. Извините, но я ничего не могу "
+"поделать."
+
+msgctxt "open_camera_failed"
+msgid ""
+"Failed to find a camera application. You will need one before you can "
+"make photos."
+msgstr "Не удалось запустить программу камеры. Она требуется что бы делать снимки."
+
+msgctxt "notify_title_generic"
+msgid "@string/app_name"
+msgstr "@string/app_name"
+
+#, python-format
+msgctxt "notify_make_photo_confirm_msg"
+msgid "%s has asked you to make a photo."
+msgstr "%s попросил вас сделать снимок."
+
+#, python-format
+msgctxt "notify_make_photo_msg"
+msgid "You promised %s a photo."
+msgstr "Вы пообещали снимок для %s."
+
+msgctxt "notify_spin_msg"
+msgid "It is now your turn to spin."
+msgstr "Ваша очередь вращать."
+
+#, python-format
+msgctxt "notify_message_received_msg"
+msgid "%s has sent you a message."
+msgstr "%s прислал(а) вам сообщение."
+
+#, python-format
+msgctxt "notify_photo_received_msg"
+msgid "%s has sent you a photo."
+msgstr "%s прислал(а) вам снимок."
+
+#, python-format
+msgctxt "notify_vote_msg"
+msgid "%s has rated your photo %d stars."
+msgstr "%s оценил(а) ваш снимок в %d звезд ."
+
+msgctxt "generic_removed_error"
+msgid ""
+"I'm not sure what happened, but the server removed you from your previous"
+" thread. Sorry."
+msgstr "Я не уверен что произошло, но сервер убрал вас из предыдущей цепочки."
+
+msgctxt "waiting_title_initial"
+msgid "Welcome! This is you."
+msgstr ""
+
+msgctxt "waiting_title"
+msgid "This is you."
+msgstr ""
+
+msgctxt "waiting_text"
+msgid ""
+"You need to wait until somebody selects you. This shouldn't take too "
+"long, but feel free to close the app, we will notify you."
+msgstr ""
+
+msgctxt "waiting_error"
+msgid "I'm sorry, there are currently enough active threads already."
+msgstr ""
+
+msgctxt "spin_now_title_continue"
+msgid "Continue the thread!"
+msgstr "Продолжите цепочку!"
+
+msgctxt "spin_now_title_asked"
+msgid "The server selected you!"
+msgstr "Сервер выбрал вас!"
+
+msgctxt "spin_now_text"
+msgid ""
+"Spin your phone on a plain surface, or simply shake it to select a random"
+" user. You can also point into a direction, then press this button:"
+msgstr ""
+"Прокрутите телефон на плоской поверхности, или потрясите для выбора "
+"пользователя. Так же вы можете направить телефон в любую сторону, и "
+"нажать эту кнопку:"
+
+msgctxt "spin_now_caption"
+msgid "Continue"
+msgstr "Продолжить"
+
+msgctxt "spin_now_error"
+msgid "You license to spin has been revoked."
+msgstr "Вы потеряли разрешение на вращение"
+
+msgctxt "finding_peer_text"
+msgid "Please wait. I am trying to find you a peer..."
+msgstr "Подождите. Я пытаюсь найти вам следующее звено..."
+
+msgctxt "finding_peer_error"
+msgid ""
+"Couldn't find a partner! Either everybody is busy right now, or no one is"
+" playing this sorry excuse for a game. Maybe invite some friends?"
+msgstr ""
+"Никого не смог найти! Или все заняты или никто не играет в это жалкое "
+"подобие игры. Может пригласить друзей?"
+
+#, python-format
+msgctxt "await_confirm_title"
+msgid "Determined %s as a possible candidate."
+msgstr "Обнаружил %s как потенциального кандидата."
+
+msgctxt "await_confirm_text"
+msgid "Waiting for the user to confirm..."
+msgstr "Ждём ответа от пользователя..."
+
+msgctxt "await_confirm_error"
+msgid "Nope, that wasn't the right match. Still looking..."
+msgstr "Не а, это был неверный выбор. Ищем дальше..."
+
+#, python-format
+msgctxt "await_photo_title"
+msgid "%s is now making a photo for you."
+msgstr "%s делает снимок для вас."
+
+msgctxt "await_photo_text"
+msgid ""
+"Feel free to leave the application, you will be notified once your photo "
+"is ready."
+msgstr "Можете выйти из программы, мы вас оповестим когда снимок будет готов."
+
+msgctxt "await_photo_error"
+msgid ""
+"The previous user dropped out on you, sorry. Let's go easy on him - it "
+"might have been a technical issue."
+msgstr ""
+"Предыдуший пользователь вас оставил, извините. Не будем судить его "
+"сильно, возможно это техническая неполадка."
+
+#, python-format
+msgctxt "asked_to_make_photo_title"
+msgid "%s would like you to make a photo."
+msgstr "%s хочет получить от вас снимок."
+
+msgctxt "asked_to_make_photo_text"
+msgid "Are you up to it? Once you accept, you will need to complete the job."
+msgstr "Готовы? Если вы приняли вызов, то должны сдержать обещание."
+
+msgctxt "asked_to_make_photo_accept_caption"
+msgid "Make Photo"
+msgstr "Сделать снимок"
+
+msgctxt "asked_to_make_photo_deny_caption"
+msgid "I'm busy"
+msgstr "Я занят"
+
+msgctxt "asked_to_make_photo_error"
+msgid "Somebody else will have all the fun now."
+msgstr "Теперь кто-то другой будет получать удовольствие от игры"
+
+#, python-format
+msgctxt "making_photo_title"
+msgid "%s is waiting for a photo from you."
+msgstr "%s ждёт снимок от вас."
+
+msgctxt "making_photo_text"
+msgid ""
+"Let's not have them wait too long. Look around you and snap a picture of "
+"something pretty!"
+msgstr "Не заставляйте их долго ждать. Осмотритесь и сфоткайте что-то красивое!"
+
+msgctxt "making_photo_caption"
+msgid "Open Camera"
+msgstr "Открыть камеру"
+
+msgctxt "making_photo_error"
+msgid ""
+"You took too long to make your photo. It's rude to stand someone up; "
+"please try to be a bit quicker next time."
+msgstr ""
+"Вы слишком долго возились со снимком. Заставлять кого-то ждать - "
+"некрасиво; постарайтесь быть чуток резвее в дальнейшем."
+
+msgctxt "uploading_title"
+msgid "Great! Please hold on while I'm uploading..."
+msgstr "Отлично! Подождите пока я загружаю ваш снимок..."
+
+msgctxt "uploading_text"
+msgid "If you're on a slow connection, this can take a bit."
+msgstr "Если вы на медленной связи, это может занять некоторое время."
+
+msgctxt "uploading_preprocess_error"
+msgid "Sorry, something went wrong, I couldn't prepare your image."
+msgstr "Что-то случилось. Я не смог подготовить ваш снимок."
+
+#, python-format
+msgctxt "thread_num_text"
+msgid "You are No. %d in this thread."
+msgstr "Вы %d-й в этой цепочке."
+
+msgctxt "no_connectivity"
+msgid "No connectivity."
+msgstr "Нет связи."
+
+msgctxt "no_connectivity_detail"
+msgid "There doesn't seem to be a network at your current location."
+msgstr "Похоже что там, где вы находитесь нет связи."
+
+msgctxt "no_connectivity_temp"
+msgid "Your phone is switching networks, hold on..."
+msgstr "Ваш телефон переключается на другую сеть, подождите..."
+
+msgctxt "reconnection_scheduled"
+msgid "Will try to reconnect soon."
+msgstr "Скоро опять попытаюсь соединиться."
+
+msgctxt "connecting"
+msgid "Connecting..."
+msgstr "Подключаюсь..."
+
+msgctxt "reconnecting"
+msgid "Reconnecting..."
+msgstr "Повторное подключение..."
+
+msgctxt "aquiring_location"
+msgid "Trying to determine your current location..."
+msgstr "Пытаюсь установить ваше местонахождение..."
+
+msgctxt "connected_now_auth"
+msgid "Authenticating..."
+msgstr "Проверка подлинности ..."
+
+msgctxt "auth_failed"
+msgid "Authentication failed."
+msgstr "Ошибка аутентификации."
+
+msgctxt "location_temp_troubles"
+msgid "I'm having some trouble determining your location. Still trying."
+msgstr "Не получается установить ваше местонахождение. Пробуем еще раз."
+
+msgctxt "no_location"
+msgid "Location unavailable."
+msgstr "Местонахождение недоступно."
+
+msgctxt "no_location_explain"
+msgid "To continue, you need to enable a location source."
+msgstr "Чтобы продолжить, вы должны разрешить местонахождение источника."
+
+msgctxt "no_location_button"
+msgid "Open Settings"
+msgstr "Открыть настройки"
+
+msgctxt "connection_temp_troubles"
+msgid "Experiencing some difficulties. Hold on, still trying."
+msgstr "Испытываем некоторые трудности. Подождите, все еще пытаемся."
+
+msgctxt "connection_failed"
+msgid "Connection failed."
+msgstr "Соединение не удалось."
+
+msgctxt "connection_lost"
+msgid "Connection lost."
+msgstr "Соединение прервано."
+
+msgctxt "service_gone"
+msgid "Lost connection to background service."
+msgstr "Потеряно соединение с фоновым сервисом."
+
+msgctxt "service_gone_explain"
+msgid ""
+"Possibly in low memory condition. Expect to be restarted by the system "
+"soon, hold on...."
+msgstr "Возможно не хватает памяти. Скоро система вас перезагрузит. Ждите."
+
+msgctxt "downtime"
+msgid "Please check back later."
+msgstr "Пожалуйста, зайдите попозже."
+
+msgctxt "downtime_explanation"
+msgid ""
+"Sorry, we are currently doing server maintenance. This may take up to an "
+"hour."
+msgstr ""
+"К сожалению, в настоящее время мы делаем обслуживания сервера. Это может "
+"занять до часа."
+
+msgctxt "indic_disconnected"
+msgid "Disconnected."
+msgstr "Отключено"
+
+msgctxt "indic_connected"
+msgid "Connected."
+msgstr "Подключено"
+
+msgctxt "indic_connecting"
+msgid "Reconnecting..."
+msgstr "Переподключаемся"
+
+msgctxt "report"
+msgid "Report Image"
+msgstr "Пожаловаться на снимок"
+
+msgctxt "image_close_default"
+msgid "Comment & Back"
+msgstr "Комментировать и Вернуться"
+
+msgctxt "image_close_send"
+msgid "Send & Close"
+msgstr "Отослать и Закрыть"
+
+msgctxt "image_close_skip"
+msgid "Skip & Close"
+msgstr "Пропустить и Закрыть"
+
+msgctxt "save_to_disk"
+msgid "Save"
+msgstr "Сохранить"
+
+msgctxt "mediastore_tagline"
+msgid "[I came from a World of Photo]"
+msgstr "[Я пришел из World of Photo]"
+
+msgctxt "saved_to_store_success"
+msgid "I've added this photo to your gallery."
+msgstr "Я добавил этот снимок в вашу галерею."
+
+msgctxt "saved_to_store_failed"
+msgid ""
+"Unable to add this photo to your gallery. Make sure you're SD Card is "
+"available."
+msgstr ""
+"Не удалось добавить этот снимок в вашу галерею. Удостоверьтесь что ваша "
+"SD карта доступна."
+
+msgctxt "report_success"
+msgid "Thank you! Our team will have a look."
+msgstr "Спасибо! Мы рассмотрим ваше сообщение."
+
+msgctxt "photo_response_hint"
+msgid "Send an optional response."
+msgstr "Выслать необязательный ответ"
+
+#, python-format
+msgctxt "suggest_rating_text"
+msgid "Tell %s how you liked this photo."
+msgstr "Сообщите %s насколько вам понравился этот снимок."
+
+#, python-format
+msgctxt "num_stars"
+msgid "%d stars"
+msgstr "%d звезд"
+
+msgctxt "no_rating"
+msgid "No rating"
+msgstr "Нет рейтинга"
+
+msgctxt "photo_by_intro"
+msgid "Photo by:"
+msgstr "Снимок сделан:"
+
+msgctxt "comment_send_no_connection"
+msgid ""
+"You are currently not connected to the server. If you continue now, your "
+"feedback will not be sent. Are you sure?"
+msgstr ""
+"Вы не подключены к серверу. Если вы продолжите, ваш комментарий не будет "
+"отправлен. Продолжить? "
+
+msgctxt "feedback_sent"
+msgid "Feedback sent!"
+msgstr "Отзыв отправлен!"
+
+msgctxt "message_by_intro"
+msgid "Message by:"
+msgstr "Сообщение от:"
+
+#, python-format
+msgctxt "message_rating_info"
+msgid "&lt;b&gt;%s&lt;/b&gt; has rated your photo &lt;b&gt;%d stars&lt;/b&gt;."
+msgstr "&lt;b&gt;%s&lt;/b&gt; оценил(а) ваш снимок в &lt;b&gt;%d звёзд&lt;/b&gt;."
+
+msgctxt "respond_to_message"
+msgid "Compose a Reply"
+msgstr "Написать ответ"
+
+msgctxt "submit_response"
+msgid "Send Reply"
+msgstr "Отправить ответ"
+
+msgctxt "reply_sent"
+msgid "Reply sent!"
+msgstr "Ответ отправлен!"
+
+msgctxt "dispose_reply_warning"
+msgid ""
+"You reply has not been sent yet. If you continue, you will lose the "
+"ability to respond to this message. Are you sure?"
+msgstr ""
+"Ваш ответ не был выслан. Если вы продолжите, вы не сможете ответить на "
+"это сообщение. Вы уверены?"
+
+msgctxt "central_loading"
+msgid "Loading, hold on..."
+msgstr "Загрузка, ждите..."
+
+msgctxt "nickname_label"
+msgid "Nickname:"
+msgstr "Псевдоним:"
+
+msgctxt "nickname_explanation"
+msgid ""
+"Note that this is the name that is displayed in your profile. The "
+"username with which you log in is not changed."
+msgstr ""
+"Это псевдоним который отображается в вашем профиле. Имя пользователя не "
+"изменится."
+
+msgctxt "bio_label"
+msgid "Bio:"
+msgstr "О себе:"
+
+msgctxt "bio_hint"
+msgid "Something short about you."
+msgstr "Что-то коротенькое о себе."
+
+msgctxt "no_nickname_error"
+msgid "You must provide a nickname."
+msgstr "Вы должны указать псевдоним."
+
+msgctxt "save_changes"
+msgid "Done"
+msgstr "Готово"
+
+msgctxt "revert_changes"
+msgid "Revert"
+msgstr "Вернуть как было"
+
+msgctxt "profile_save_no_connection"
+msgid ""
+"You are currently not connected to the server. If you continue now, your "
+"changes will not be saved. Are you sure?"
+msgstr ""
+"ВЫ не подключены к серверу. Если вы продолжите, ваши изменения не вступят"
+" в силу. Вы уверены?"
+
+msgctxt "no_imsi_title"
+msgid "No IMSI"
+msgstr "Нет IMSI"
+
+msgctxt "no_imsi_msg"
+msgid ""
+"Sorry, autologin is not possible on this device. You are probably missing"
+" a SIM card."
+msgstr ""
+"Извините, но автологин невозможен на этом аппарате. Проверьте наличие SIM"
+" карты."
+
+msgctxt "setup_intro_header"
+msgid "As a multiplayer online game, we need to identify you as a player."
+msgstr ""
+"В многопользовательской онлайн игре, мы должны идентифицировать вас как "
+"игрока."
+
+msgctxt "autologin_title"
+msgid "Just want to give it a whirl?"
+msgstr "Просто хотите посмтореть?"
+
+msgctxt "autologin_explain"
+msgid "Your account will be bound to your phone number and device."
+msgstr "Ваша учетная запись будет привязана к телефонному номеру и аппарату."
+
+msgctxt "autologin_action"
+msgid "Start playing right away"
+msgstr "Начать играть сейчас."
+
+msgctxt "login_title"
+msgid "Want to have a permanent username?"
+msgstr "Хотите постоянный псевдоним?"
+
+msgctxt "login_explain"
+msgid "Creating an acount will allow you to log in from anywhere."
+msgstr "Создание учетной записи позволит вам войти в систему отовсюду."
+
+msgctxt "login_action"
+msgid "Choose a username and password"
+msgstr "Выберите имя пользователя и пароль"
+
+msgctxt "register_title"
+msgid "You've played before?"
+msgstr "Вы играли раньше?"
+
+msgctxt "register_explain"
+msgid "Continue using an account you've set up previously."
+msgstr "Продолжить с помощью учетной записи, которую вы создали ранее."
+
+msgctxt "register_action"
+msgid "Login with your existing username"
+msgstr "Войти с существующим именем пользователя"
+
+msgctxt "register"
+msgid "Register"
+msgstr "Регистрация"
+
+msgctxt "login"
+msgid "Login"
+msgstr "Войти"
+
+msgctxt "new_account"
+msgid "New Account"
+msgstr "Новая учетная запись"
+
+msgctxt "username_label"
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+msgctxt "password_label"
+msgid "Password:"
+msgstr "Пароль:"
+
+msgctxt "password_repeat_label"
+msgid "Password (repeat):"
+msgstr "Пароль (повторно):"
+
+msgctxt "username_missing_register"
+msgid "Please choose a username."
+msgstr "Пожалуйста, выберите имя пользователя."
+
+msgctxt "username_missing_login"
+msgid "Please enter your username."
+msgstr "Пожалуйста, введите имя пользователя."
+
+msgctxt "password_missing_register"
+msgid "Please choose a password."
+msgstr "Пожалуйста, выберите пароль."
+
+msgctxt "password_missing_login"
+msgid "Please enter your password."
+msgstr "Пожалуйста, введите свой пароль."
+
+msgctxt "passwords_not_matching"
+msgid "Passwords do not match."
+msgstr "Пароли не совпадают."
+
+msgctxt "login_failed"
+msgid "Your username or password was incorrect."
+msgstr "Ваше имя пользователя или пароль неверны."
+
+msgctxt "register_failed"
+msgid "Sorry, the username you have chosen is not available."
+msgstr "К сожалению, имя пользователя, которое вы выбрали, не доступно."
+
+msgctxt "onboot_pref_title"
+msgid "Resume on boot"
+msgstr "Запустить при загрузке"
+
+msgctxt "onboot_pref_summary"
+msgid "Automatically connect on boot if connected before shutdown."
+msgstr "Автоматическое подключение при загрузке, если был подключен до выключения."
+
+msgctxt "compass_spin_pref_title"
+msgid "Compass Spin enabled"
+msgstr "Вращение компаса включено"
+
+msgctxt "compass_spin_pref_summary"
+msgid "Disable if it makes problems. It's a gimmick anyway!"
+msgstr "Отключите если он создаёт проблемы. Это диковинка в любом случае!"
+
+msgctxt "selection_freq_pref_title"
+msgid "Selection Frequency"
+msgstr "Частота выбора"
+
+msgctxt "selection_freq_pref_summary"
+msgid "Just as a recommendation to the server. No guarantees!"
+msgstr "Просто рекомендация к серверу. Никаких гарантий!"
+
+msgctxt "selection_freq_value_half"
+msgid "Once every half hour"
+msgstr "Раз в полчаса"
+
+msgctxt "selection_freq_value_one"
+msgid "Once every hour"
+msgstr "Один раз в час"
+
+msgctxt "selection_freq_value_two"
+msgid "Every two hours"
+msgstr "Каждые два часа"
+
+msgctxt "selection_freq_value_three"
+msgid "Every three hours"
+msgstr "Каждые три часа"
+
+msgctxt "selection_freq_value_four"
+msgid "Every four hours"
+msgstr "Каждые четыре часа"
+
+msgctxt "vibrate_pref_title"
+msgid "Vibrate enabled"
+msgstr "Виброзвонок включен"
+
+msgctxt "vibrate_pref_summary"
+msgid "Choose whether your phone should vibrate on an incoming event."
+msgstr "Должен ли ваш телефон вибрировать на входящие события."
+
+msgctxt "distort_pos_pref_title"
+msgid "Distort location"
+msgstr "Искажение местонахождения"
+
+msgctxt "distort_pos_pref_summary"
+msgid "If you have privacy concerns, you can force an inaccurate location."
+msgstr ""
+"Если у вас беспокоит конфиденциальность, вы можете заставить искажать "
+"ваше местонахождение."
+
+msgctxt "distort_pos_value_do_not"
+msgid "Do not distort"
+msgstr "Не искажать"
+
+msgctxt "distort_pos_value_200m"
+msgid "200 meters"
+msgstr "200 метров"
+
+msgctxt "distort_pos_value_500m"
+msgid "500 meters"
+msgstr "500 метров"
+
+msgctxt "distort_pos_value_1km"
+msgid "1 kilometer"
+msgstr "1 километр"
+
+msgctxt "distort_pos_value_5km"
+msgid "5 kilometers"
+msgstr "5 километров"
+
+msgctxt "distort_pos_value_10km"
+msgid "10 kilometers"
+msgstr "10 километров"
+
+msgctxt "play_steps"
+msgid "Step for Step"
+msgstr "Шаг за шагом"
+
+msgctxt "skip"
+msgid "Skip"
+msgstr "Пропустить"
+
+msgctxt "close_help"
+msgid "Close Help"
+msgstr "Закрыть Помощь"
+
+msgctxt "intro_title"
+msgid "How it works"
+msgstr "Как это работает"
+
+msgctxt "intro_spin_title"
+msgid "You spin your phone."
+msgstr "Вы крутите свой телефон."
+
+msgctxt "intro_spin_text"
+msgid "You can also just shake it, or point into a direction of your choosing."
+msgstr ""
+"Вы также можете просто потрясти его, или повернуть в направлении по "
+"вашему выбору."
+
+msgctxt "intro_select_title"
+msgid "The player you pointed to is notified."
+msgstr "Игрок, на которого вы указали, получает уведомление."
+
+msgctxt "intro_select_text"
+msgid ""
+"This is determined geographically based on your and the other player's "
+"location."
+msgstr "Это обусловлено вашей географической привязкой и другого игрока."
+
+msgctxt "intro_receive_photo_title"
+msgid "He takes a picture and sends it to you."
+msgstr "Он делает снимок и отправляет его к вам."
+
+msgctxt "intro_peerspin_title"
+msgid "The player then spins his own phone."
+msgstr "Затем игрок крутит свой телефон."
+
+msgctxt "intro_peerspin_text"
+msgid "And thus selects someone who will send a photo to him."
+msgstr "И таким образом выбирает, кто отправит снимок ему."
+
+msgctxt "intro_repeat_title"
+msgid "This is repeated..."
+msgstr "Это повторяется ..."
+
+msgctxt "intro_send_photo_title"
+msgid "...until somebody selects you to take a picture."
+msgstr "... пока кто-то не выбирает вас, чтобы вы сделали снимок."
+
+msgctxt "intro_final_title"
+msgid "That's it!"
+msgstr "Вот и все!"
+
+msgctxt "intro_final_text"
+msgid ""
+"Remember that you can leave the application at any time. You will be "
+"notified when you are being selected."
+msgstr ""
+"Помните, что вы можете оставить программу в любое время. Вы будете "
+"уведомлены, когда вас выберут."
+
+msgctxt "credits_title"
+msgid "Credits"
+msgstr "Кредиты"
+
+#, python-format
+msgctxt "credits_text"
+msgid "Current translation by: %s"
+msgstr "Перевод:% S"
+
+msgctxt "faq_info_title"
+msgid "FAQ & Info"
+msgstr "ЧА.ВО. и Информация"
+
+msgctxt "faq_info_text"
+msgid ""
+"<b>I always seem to point in a different direction than the person I "
+"select is in.</b> \n"
+"\n"
+"First of all, who is selected depends obviously to a large extend on who "
+"is actually online, but also whether they are currently already in a "
+"thread of their own, or the selection frequency preference they have "
+"chosen. \n"
+"\n"
+"However, also consider that we are currently using a true (spherical) "
+"geodesy model to evaluate spins. That is, if you are in Europe pointing "
+"northwest, your extended line, if drawn on map, will pass as an arc "
+"straight through the United States and then at some point hit Australia. "
+"Try it on a globus, it's true. Currently, we don't visualize that very "
+"well inside the application. \n"
+"\n"
+"<b>How does the Autologin work?</b> \n"
+"\n"
+"It generates a username based on IDs on your SIM card and device, but "
+"note it never actually transmits the IDs themselves. \n"
+"\n"
+"<b>Spinning my device doesn't work properly.</b> \n"
+"\n"
+"Sorry about that. We are still working on it, though it's not easy. The "
+"sensors in different devices don't always behave the same, and the slow "
+"response times of the compass sensors are generally a problem. \n"
+"\n"
+"If the compass spin is triggering too easily, consider disabling it in "
+"the preferences. "
+msgstr ""
+"<b> Мне всегда кажется, что я указываю в направление, отличающееся от "
+"местонахождения человека, на которого я указал </b> \n"
+"\n"
+"Прежде всего, в большинстве выбор зависит от того, кто сейчас в сети, и "
+"так же от нахождения игрока в другой цепочке. Или же от частоты выбора, "
+"установленное им. \n"
+"\n"
+"Тем не менее, примите во внимание что в данный момент мы используем "
+"сферическую геодезическую модель для \"разрешения\" вращений телефона. То"
+" есть, если вы в Европе и указываете на северо-запад, ваша линия на карте"
+" пройдет дугой через США и в конце концов дойдет до Австралии. Попробуйте"
+" на глобусе. В данный момент мы не совсем точно показываем это в "
+"программе.\n"
+"\n"
+"<b>Как работает Автоматический вход?</b> \n"
+"\n"
+"Автоматический вход генерирует имя пользователя на основе идентификаторов"
+" на вашей SIM-карте и устройстве, но он никогда не передает сами "
+"идентификаторы.\n"
+"\n"
+"<b>Вращение аппарата не работает корректно.</b> \n"
+"\n"
+"Приносим свои извинения. Эта функция всё ещё в разработке, и это нелегко."
+" Сенсоры на разных аппаратах работают по разному, и медленное "
+"реагирование компасного сенсора - большая проблема. \n"
+"\n"
+"Если компас слишком чувствителен, попробуйте отключить его в настройках.к"
+

@@ -1,0 +1,983 @@
+# Translations template for PROJECT.
+# Copyright (C) 2010 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2010-03-30 11:29+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.0dev-r0\n"
+
+msgctxt "translator_credit"
+msgid "(Your Name &lt;Your E-Mail or Site&gt;)"
+msgstr "Michael Elsdörfer &lt;michael@elsdoerfer.com&gt;"
+
+msgctxt "error"
+msgid "Error"
+msgstr "Fehler"
+
+msgctxt "warning"
+msgid "Warning"
+msgstr "Warnung"
+
+msgctxt "note"
+msgid "Please Note"
+msgstr "Hinweis"
+
+msgctxt "compass_n"
+msgid "N"
+msgstr "N"
+
+msgctxt "compass_ne"
+msgid "NE"
+msgstr "NO"
+
+msgctxt "compass_e"
+msgid "E"
+msgstr "O"
+
+msgctxt "compass_se"
+msgid "SE"
+msgstr "SO"
+
+msgctxt "compass_s"
+msgid "S"
+msgstr "S"
+
+msgctxt "compass_sw"
+msgid "SW"
+msgstr "SW"
+
+msgctxt "compass_w"
+msgid "W"
+msgstr "W"
+
+msgctxt "compass_nw"
+msgid "NW"
+msgstr "NW"
+
+msgctxt "content_warning"
+msgid ""
+"Do not send photos whose contents are obscene, illegal to distribute "
+"under German law, or otherwise inappropriate. If we find that you "
+"maliciously do so, your device will be blocked from this game.\n"
+"\n"
+"Other than that, have fun!"
+msgstr ""
+"Sende keine Bilder mit obszönen, unter deutschem Recht verbotenen, oder "
+"andersartig unangebrachten Inhalten. Sollten wir feststellen dass du dies"
+" mutwillig tust, werden wir dein Handy von diesem Spiel aussperren.\n"
+"\n"
+"Davon abgesehen: Viel Spaß!"
+
+msgctxt "error_full"
+msgid ""
+"I'm sorry, but all servers are currently full. Hopefully, we're already "
+"working on adding more capacity. Try again later!"
+msgstr ""
+"Tut mir leid, aber alle Server sind zurzeit voll. Hoffentlich arbeiten "
+"wir bereits an weiteren Kapazitäten. Versuch es später nochmal!"
+
+msgctxt "error_banned"
+msgid ""
+"You have been banned from this game. If you believe this to have happened"
+" in error, please contact us."
+msgstr ""
+"Du wurdest von diesem Spiel gebannt. Wenn du glaubst dass ein "
+"Mißverständnis vorliegt, kontaktiere uns bitte."
+
+msgctxt "requirements_unmet_title"
+msgid "Unmet system requirements"
+msgstr "Systemvoraussetzungen"
+
+msgctxt "location_requirent_unmet"
+msgid ""
+"You device does not support a location provider to determine your "
+"location. This is required to play the game, sorry."
+msgstr ""
+"Tut mir leid, dein Handy unterstützt es nicht deine Position zu "
+"ermitteln. Diese Funktion ist für das Spiel unbedingt erforderlich."
+
+msgctxt "exit"
+msgid "Exit"
+msgstr "Beenden"
+
+msgctxt "logout"
+msgid "Switch User"
+msgstr "Benutzer wechseln"
+
+msgctxt "help"
+msgid "Help"
+msgstr "Hilfe"
+
+msgctxt "debug"
+msgid "Debug"
+msgstr "Debug"
+
+msgctxt "map_mode"
+msgid "Map Mode"
+msgstr "Kartenmodus"
+
+msgctxt "show_myself"
+msgid "Myself"
+msgstr "Zu mir"
+
+msgctxt "edit_profile"
+msgid "Edit Profile"
+msgstr "Profil bearbeiten"
+
+msgctxt "friends"
+msgid "Friends"
+msgstr "Freunde"
+
+msgctxt "more"
+msgid "More"
+msgstr "Mehr"
+
+msgctxt "preferences"
+msgid "Preferences"
+msgstr "Einstellungen"
+
+msgctxt "feedback"
+msgid "Feedback"
+msgstr "Feedback"
+
+msgctxt "central"
+msgid "Central"
+msgstr "Zentrale"
+
+msgctxt "update_location"
+msgid "Update my location"
+msgstr "Position aktualisieren"
+
+msgctxt "no_location_providers_enabled"
+msgid "Sorry, you currently have no location providers enabled."
+msgstr "Tut mir leid, aktuell sind keine Standortquellen aktiviert."
+
+msgctxt "exit_warning"
+msgid ""
+"If you exit, you will no longer participate in the game. Are you sure? \n"
+"\n"
+"If you want to keep playing, you can instead leave the application using "
+"the BACK button."
+msgstr ""
+"Durch das Beenden spielst du ab sofort nicht mehr mit. Bist du sicher? \n"
+"\n"
+"Wenn du weiter mitmachen willst kannst du das Programm auch jederzeit mit"
+" der ZURÜCK Taste verlassen."
+
+msgctxt "try_sys_camera"
+msgid ""
+"Something went wrong - I'm unable to find the picture you just made. If "
+"you are using a third party camera, it may not support proper usage by "
+"other applications.\n"
+"\n"
+"Should I try to start the system camera?"
+msgstr ""
+"Irgendetwas lief schief - Ich kann das Bild dass du gemacht hast nicht "
+"finden. Wenn du ein Kameraprogramm eines Drittherstellers verwendest, "
+"unterstützt es möglicherweise die korrekten Schnittstellen nicht.\n"
+"\n"
+"Soll ich versuchen die System-Kamera zu starten?"
+
+msgctxt "try_sys_camera_failed"
+msgid ""
+"Failed to start the system camera application. Sorry, there is nothing "
+"more I can do."
+msgstr ""
+"Die System-Kamera konnte nicht gestartet werden. Tut mir leid, mehr kann "
+"ich nicht tun."
+
+msgctxt "open_camera_failed"
+msgid ""
+"Failed to find a camera application. You will need one before you can "
+"make photos."
+msgstr "Konnte die Kamera-Anwendung nicht finden."
+
+msgctxt "notify_title_generic"
+msgid "@string/app_name"
+msgstr "@string/app_name"
+
+#, python-format
+msgctxt "notify_make_photo_confirm_msg"
+msgid "%s has asked you to make a photo."
+msgstr "%s bittet dich um ein Foto."
+
+#, python-format
+msgctxt "notify_make_photo_msg"
+msgid "You promised %s a photo."
+msgstr "Du hast %s ein Foto versprochen."
+
+msgctxt "notify_spin_msg"
+msgid "It is now your turn to spin."
+msgstr "Du bist nun am Zug."
+
+#, python-format
+msgctxt "notify_message_received_msg"
+msgid "%s has sent you a message."
+msgstr "%s hat dir eine Nachricht gesendet."
+
+#, python-format
+msgctxt "notify_photo_received_msg"
+msgid "%s has sent you a photo."
+msgstr "%s hat dir ein Foto gesendet."
+
+#, python-format
+msgctxt "notify_vote_msg"
+msgid "%s has rated your photo %d stars."
+msgstr "%s hat dein Foto mit %d Sternen bewertet."
+
+msgctxt "generic_removed_error"
+msgid ""
+"I'm not sure what happened, but the server removed you from your previous"
+" thread. Sorry."
+msgstr ""
+"Ich bin nicht sicher was passiert ist, aber du wurdest aus deiner "
+"vorherigen Kette entfernt."
+
+msgctxt "waiting_title_initial"
+msgid "Welcome! This is you."
+msgstr ""
+
+msgctxt "waiting_title"
+msgid "This is you."
+msgstr ""
+
+msgctxt "waiting_text"
+msgid ""
+"You need to wait until somebody selects you. This shouldn't take too "
+"long, but feel free to close the app, we will notify you."
+msgstr ""
+
+msgctxt "waiting_error"
+msgid "I'm sorry, there are currently enough active threads already."
+msgstr ""
+
+msgctxt "spin_now_title_continue"
+msgid "Continue the thread!"
+msgstr "Setze die Kette fort!"
+
+msgctxt "spin_now_title_asked"
+msgid "The server selected you!"
+msgstr "Der Server hat dich ausgewählt!"
+
+msgctxt "spin_now_text"
+msgid ""
+"Spin your phone on a plain surface, or simply shake it to select a random"
+" user. You can also point into a direction, then press this button:"
+msgstr ""
+"Drehe dein Handy auf einer ebenen Oberfläche, oder schüttle es einfach "
+"für eine Zufallsauswahl. Du kannst auch in eine beliebige Richtung zeigen"
+" und dann diesen Knopf drücken:"
+
+msgctxt "spin_now_caption"
+msgid "Continue"
+msgstr "Weiter"
+
+msgctxt "spin_now_error"
+msgid "You license to spin has been revoked."
+msgstr "Sorry, du hast dir zu lange Zeit gelassen!"
+
+msgctxt "finding_peer_text"
+msgid "Please wait. I am trying to find you a peer..."
+msgstr "Bitte warten, ich versuche ein Gegenüber zu finden..."
+
+msgctxt "finding_peer_error"
+msgid ""
+"Couldn't find a partner! Either everybody is busy right now, or no one is"
+" playing this sorry excuse for a game. Maybe invite some friends?"
+msgstr ""
+"Konnte keinen Partner finden! Entweder sind alle beschäftigt, oder "
+"niemand spielt mit! Wie wär's wenn du ein paar Freunde einlädst?"
+
+#, python-format
+msgctxt "await_confirm_title"
+msgid "Determined %s as a possible candidate."
+msgstr "Möglicher Kandidat gefunden: %s"
+
+msgctxt "await_confirm_text"
+msgid "Waiting for the user to confirm..."
+msgstr "Warte auf Bestätigung des Spielers..."
+
+msgctxt "await_confirm_error"
+msgid "Nope, that wasn't the right match. Still looking..."
+msgstr "Das war nichts. Ich suche weiter..."
+
+#, python-format
+msgctxt "await_photo_title"
+msgid "%s is now making a photo for you."
+msgstr "%s macht nun ein Foto für dich."
+
+msgctxt "await_photo_text"
+msgid ""
+"Feel free to leave the application, you will be notified once your photo "
+"is ready."
+msgstr ""
+"Wenn du möchtest kannst du das Programm verlassen. Du wirst "
+"benachrichtigt wenn es soweit ist."
+
+msgctxt "await_photo_error"
+msgid ""
+"The previous user dropped out on you, sorry. Let's go easy on him - it "
+"might have been a technical issue."
+msgstr ""
+"Der vorherige Nutzer hat dich versetzt, sorry. Habe etwas Nachsicht - es "
+"war vielleicht ein technisches Problem."
+
+#, python-format
+msgctxt "asked_to_make_photo_title"
+msgid "%s would like you to make a photo."
+msgstr "%s bittet dich ein Foto zu machen."
+
+msgctxt "asked_to_make_photo_text"
+msgid "Are you up to it? Once you accept, you will need to complete the job."
+msgstr ""
+"Wie wär's? Achtung, wenn du akzeptierst, musst du die Sache auch zu Ende "
+"führen."
+
+msgctxt "asked_to_make_photo_accept_caption"
+msgid "Make Photo"
+msgstr "Foto machen"
+
+msgctxt "asked_to_make_photo_deny_caption"
+msgid "I'm busy"
+msgstr "Keine Zeit"
+
+msgctxt "asked_to_make_photo_error"
+msgid "Somebody else will have all the fun now."
+msgstr "Jemand anderer wird jetzt den Spaß haben."
+
+#, python-format
+msgctxt "making_photo_title"
+msgid "%s is waiting for a photo from you."
+msgstr "%s wartet auf ein Foto von dir."
+
+msgctxt "making_photo_text"
+msgid ""
+"Let's not have them wait too long. Look around you and snap a picture of "
+"something pretty!"
+msgstr "Lass nicht zu lange warten. Schau dich um und fotografiere etwas Nettes!"
+
+msgctxt "making_photo_caption"
+msgid "Open Camera"
+msgstr "Kamera öffnen"
+
+msgctxt "making_photo_error"
+msgid ""
+"You took too long to make your photo. It's rude to stand someone up; "
+"please try to be a bit quicker next time."
+msgstr ""
+"Du hast dir zu lange Zeit gelassen. Jemanden zu versetzen ist unhöflich! "
+"Bitte versuche das nächste mal ein bißchen schneller zu sein."
+
+msgctxt "uploading_title"
+msgid "Great! Please hold on while I'm uploading..."
+msgstr "Super! Bitte warte während ich das Bild verschicke..."
+
+msgctxt "uploading_text"
+msgid "If you're on a slow connection, this can take a bit."
+msgstr "Mit einer langsamen Verbindung kann dies ein bißchen dauern."
+
+msgctxt "uploading_preprocess_error"
+msgid "Sorry, something went wrong, I couldn't prepare your image."
+msgstr ""
+"Tut mir leid, irgendetwas lief schief. Ich konnte dein Bild nicht "
+"vorbereiten."
+
+#, python-format
+msgctxt "thread_num_text"
+msgid "You are No. %d in this thread."
+msgstr "Du bist Nr. %d in dieser Kette."
+
+msgctxt "no_connectivity"
+msgid "No connectivity."
+msgstr "Keine Verbindung."
+
+msgctxt "no_connectivity_detail"
+msgid "There doesn't seem to be a network at your current location."
+msgstr "Du hast aktuell keinerlei Verbindung."
+
+msgctxt "no_connectivity_temp"
+msgid "Your phone is switching networks, hold on..."
+msgstr "Dein Handy wechselt Netzwerke, warte einen Moment..."
+
+msgctxt "reconnection_scheduled"
+msgid "Will try to reconnect soon."
+msgstr "Werde in Kürze neu verbinden."
+
+msgctxt "connecting"
+msgid "Connecting..."
+msgstr "Verbinden..."
+
+msgctxt "reconnecting"
+msgid "Reconnecting..."
+msgstr "Verbindung wiederherstellen..."
+
+msgctxt "aquiring_location"
+msgid "Trying to determine your current location..."
+msgstr "Versuche deine Position zu finden..."
+
+msgctxt "connected_now_auth"
+msgid "Authenticating..."
+msgstr "Anmelden..."
+
+msgctxt "auth_failed"
+msgid "Authentication failed."
+msgstr "Anmeldung fehlgeschlagen."
+
+msgctxt "location_temp_troubles"
+msgid "I'm having some trouble determining your location. Still trying."
+msgstr ""
+"Ich habe einige Schwierigkeiten deine Position festzustellen. Bitte etwas"
+" Geduld."
+
+msgctxt "no_location"
+msgid "Location unavailable."
+msgstr "Position nicht verfügbar."
+
+msgctxt "no_location_explain"
+msgid "To continue, you need to enable a location source."
+msgstr "Du musst eine Standortquelle aktivieren um fortzufahren."
+
+msgctxt "no_location_button"
+msgid "Open Settings"
+msgstr "Einstellungen öffnen"
+
+msgctxt "connection_temp_troubles"
+msgid "Experiencing some difficulties. Hold on, still trying."
+msgstr "Tue mich etwas schwer. Moment, ich versuche weiterhin..."
+
+msgctxt "connection_failed"
+msgid "Connection failed."
+msgstr "Verbindung fehlgeschlagen."
+
+msgctxt "connection_lost"
+msgid "Connection lost."
+msgstr "Verbindung verloren."
+
+msgctxt "service_gone"
+msgid "Lost connection to background service."
+msgstr "Verbindung zum Hintergrunddienst verloren."
+
+msgctxt "service_gone_explain"
+msgid ""
+"Possibly in low memory condition. Expect to be restarted by the system "
+"soon, hold on...."
+msgstr ""
+"Möglicherweise herrscht Speicherknappheit. Erwarte vom System neu "
+"gestartet zu werden, bitte etwas Geduld..."
+
+msgctxt "downtime"
+msgid "Please check back later."
+msgstr "Bitte probiere es später noch einmal."
+
+msgctxt "downtime_explanation"
+msgid ""
+"Sorry, we are currently doing server maintenance. This may take up to an "
+"hour."
+msgstr ""
+"Wir führen zurzeit Serverarbeiten durch. Dies kann bis zu eine Stunde "
+"dauern."
+
+msgctxt "indic_disconnected"
+msgid "Disconnected."
+msgstr "Nicht verbunden."
+
+msgctxt "indic_connected"
+msgid "Connected."
+msgstr "Verbunden."
+
+msgctxt "indic_connecting"
+msgid "Reconnecting..."
+msgstr "Verbinden..."
+
+msgctxt "report"
+msgid "Report Image"
+msgstr "Bild melden"
+
+msgctxt "image_close_default"
+msgid "Comment & Back"
+msgstr "Feedback & Zurück"
+
+msgctxt "image_close_send"
+msgid "Send & Close"
+msgstr "Senden & Schließen"
+
+msgctxt "image_close_skip"
+msgid "Skip & Close"
+msgstr "Abbrechen & Zurück"
+
+msgctxt "save_to_disk"
+msgid "Save"
+msgstr "Speichern"
+
+msgctxt "mediastore_tagline"
+msgid "[I came from a World of Photo]"
+msgstr "[I came from a World of Photo]"
+
+msgctxt "saved_to_store_success"
+msgid "I've added this photo to your gallery."
+msgstr "Das Bild wurde deinem Fotoalbum hinzugefügt."
+
+msgctxt "saved_to_store_failed"
+msgid ""
+"Unable to add this photo to your gallery. Make sure you're SD Card is "
+"available."
+msgstr "Fehlgeschlagen! Stelle sicher dass eine SD Karte verfügbar ist."
+
+msgctxt "report_success"
+msgid "Thank you! Our team will have a look."
+msgstr "Danke! Unser Team wird der Sache nachgehen."
+
+msgctxt "photo_response_hint"
+msgid "Send an optional response."
+msgstr "Optional: Sende einen Kommentar."
+
+#, python-format
+msgctxt "suggest_rating_text"
+msgid "Tell %s how you liked this photo."
+msgstr "Lass %s wissen was du denkst."
+
+#, python-format
+msgctxt "num_stars"
+msgid "%d stars"
+msgstr "%d Sterne"
+
+msgctxt "no_rating"
+msgid "No rating"
+msgstr "Keine Wertung"
+
+msgctxt "photo_by_intro"
+msgid "Photo by:"
+msgstr "Photo von:"
+
+msgctxt "comment_send_no_connection"
+msgid ""
+"You are currently not connected to the server. If you continue now, your "
+"feedback will not be sent. Are you sure?"
+msgstr ""
+"Du bist aktuell nicht verbunden. Wenn du fortfährst, wird dein Feedback "
+"nicht gesendet. Bist du sicher?"
+
+msgctxt "feedback_sent"
+msgid "Feedback sent!"
+msgstr "Feedback gesendet!"
+
+msgctxt "message_by_intro"
+msgid "Message by:"
+msgstr "Nachricht von:"
+
+#, python-format
+msgctxt "message_rating_info"
+msgid "&lt;b&gt;%s&lt;/b&gt; has rated your photo &lt;b&gt;%d stars&lt;/b&gt;."
+msgstr ""
+"&lt;b&gt;%s&lt;/b&gt; hat dein Foto mit &lt;b&gt;%d Sternen&lt;/b&gt; "
+"bewertet."
+
+msgctxt "respond_to_message"
+msgid "Compose a Reply"
+msgstr "Antwort schreiben"
+
+msgctxt "submit_response"
+msgid "Send Reply"
+msgstr "Senden"
+
+msgctxt "reply_sent"
+msgid "Reply sent!"
+msgstr "Antwort gesendet!"
+
+msgctxt "dispose_reply_warning"
+msgid ""
+"You reply has not been sent yet. If you continue, you will lose the "
+"ability to respond to this message. Are you sure?"
+msgstr ""
+"Deine Antwort wurde noch nicht gesendet. Wenn du fortfährst, wirst du die"
+" Möglichkeit zu Antworten verlieren. Bist du sicher?"
+
+msgctxt "central_loading"
+msgid "Loading, hold on..."
+msgstr "Lade, bitte warten..."
+
+msgctxt "nickname_label"
+msgid "Nickname:"
+msgstr "Nickname:"
+
+msgctxt "nickname_explanation"
+msgid ""
+"Note that this is the name that is displayed in your profile. The "
+"username with which you log in is not changed."
+msgstr ""
+"Beachte dass dies der Name ist der in deinem Profil angezeigt wird. Dein "
+"Benutzername zur Anmeldung wird nicht geändert!"
+
+msgctxt "bio_label"
+msgid "Bio:"
+msgstr "Bio:"
+
+msgctxt "bio_hint"
+msgid "Something short about you."
+msgstr "Etwas Kurzes über dich."
+
+msgctxt "no_nickname_error"
+msgid "You must provide a nickname."
+msgstr "Du musst einen Nick angeben."
+
+msgctxt "save_changes"
+msgid "Done"
+msgstr "Speichern"
+
+msgctxt "revert_changes"
+msgid "Revert"
+msgstr "Verwerfen"
+
+msgctxt "profile_save_no_connection"
+msgid ""
+"You are currently not connected to the server. If you continue now, your "
+"changes will not be saved. Are you sure?"
+msgstr ""
+"Du bist aktuell nicht verbunden. Wenn du fortfährst, werden deine "
+"Änderungen verworfen. Bist du sicher?"
+
+msgctxt "no_imsi_title"
+msgid "No IMSI"
+msgstr "Keine IMSI"
+
+msgctxt "no_imsi_msg"
+msgid ""
+"Sorry, autologin is not possible on this device. You are probably missing"
+" a SIM card."
+msgstr ""
+"Tut mir leid, der automatische Login ist auf diesem Gerät nicht möglich. "
+"Dir fehlt vermutlich eine SIM-Karte."
+
+msgctxt "setup_intro_header"
+msgid "As a multiplayer online game, we need to identify you as a player."
+msgstr "Als Multiplayer-Spiel müssen wir dich als Spieler identifizieren können."
+
+msgctxt "autologin_title"
+msgid "Just want to give it a whirl?"
+msgstr "Nur mal ausprobieren?"
+
+msgctxt "autologin_explain"
+msgid "Your account will be bound to your phone number and device."
+msgstr "Dein Konto wird mit deiner Nummer und Handy verknüpft."
+
+msgctxt "autologin_action"
+msgid "Start playing right away"
+msgstr "Sofort loslegen"
+
+msgctxt "login_title"
+msgid "Want to have a permanent username?"
+msgstr "Du willst deinen eigenen Benutzernamen?"
+
+msgctxt "login_explain"
+msgid "Creating an acount will allow you to log in from anywhere."
+msgstr "Mit eigenem Konto kannst du dich von überall aus einloggen."
+
+msgctxt "login_action"
+msgid "Choose a username and password"
+msgstr "Benutzername und Passwort wählen"
+
+msgctxt "register_title"
+msgid "You've played before?"
+msgstr "Du hast bereits gespielt?"
+
+msgctxt "register_explain"
+msgid "Continue using an account you've set up previously."
+msgstr "Verwende ein bereits existierendes Konto."
+
+msgctxt "register_action"
+msgid "Login with your existing username"
+msgstr "Melde dich mit deinem Benutzernamen an"
+
+msgctxt "register"
+msgid "Register"
+msgstr "Registrieren"
+
+msgctxt "login"
+msgid "Login"
+msgstr "Anmelden"
+
+msgctxt "new_account"
+msgid "New Account"
+msgstr "Neuer Account"
+
+msgctxt "username_label"
+msgid "Username:"
+msgstr "Benutzername:"
+
+msgctxt "password_label"
+msgid "Password:"
+msgstr "Passwort:"
+
+msgctxt "password_repeat_label"
+msgid "Password (repeat):"
+msgstr "Password (wiederholen):"
+
+msgctxt "username_missing_register"
+msgid "Please choose a username."
+msgstr "Bitte wähle einen Benutzernamen."
+
+msgctxt "username_missing_login"
+msgid "Please enter your username."
+msgstr "Bitte gib deinen Benutzernamen ein."
+
+msgctxt "password_missing_register"
+msgid "Please choose a password."
+msgstr "Bitte wähle ein Passwort."
+
+msgctxt "password_missing_login"
+msgid "Please enter your password."
+msgstr "Bitte gib dein Passwort ein."
+
+msgctxt "passwords_not_matching"
+msgid "Passwords do not match."
+msgstr "Passwörter stimmen nicht überein."
+
+msgctxt "login_failed"
+msgid "Your username or password was incorrect."
+msgstr "Dein Benutzername oder Passwort sind nicht korrekt."
+
+msgctxt "register_failed"
+msgid "Sorry, the username you have chosen is not available."
+msgstr "Der gewählte Benutzername ist nicht mehr verfügbar."
+
+msgctxt "onboot_pref_title"
+msgid "Resume on boot"
+msgstr "Weiterspielen beim Start"
+
+msgctxt "onboot_pref_summary"
+msgid "Automatically connect on boot if connected before shutdown."
+msgstr "Beim Systemstart verbinden, wenn zuvor eine Verbindung bestand."
+
+msgctxt "compass_spin_pref_title"
+msgid "Compass Spin enabled"
+msgstr "Kompass-Drehen aktiviert"
+
+msgctxt "compass_spin_pref_summary"
+msgid "Disable if it makes problems. It's a gimmick anyway!"
+msgstr "Bei Problemen deaktivieren. Ist sowieso nur ein Gimmick!"
+
+msgctxt "selection_freq_pref_title"
+msgid "Selection Frequency"
+msgstr "Häufigkeit der Auswahl"
+
+msgctxt "selection_freq_pref_summary"
+msgid "Just as a recommendation to the server. No guarantees!"
+msgstr "Nur als Empfehlung an den Server. Keine Garantien!"
+
+msgctxt "selection_freq_value_half"
+msgid "Once every half hour"
+msgstr "Etwa jede halbe Stunde"
+
+msgctxt "selection_freq_value_one"
+msgid "Once every hour"
+msgstr "Etwa einmal die Stunde"
+
+msgctxt "selection_freq_value_two"
+msgid "Every two hours"
+msgstr "Etwa alle zwei Stunden"
+
+msgctxt "selection_freq_value_three"
+msgid "Every three hours"
+msgstr "Etwa alle drei Stunden"
+
+msgctxt "selection_freq_value_four"
+msgid "Every four hours"
+msgstr "Etwa alle vier Stunden"
+
+msgctxt "vibrate_pref_title"
+msgid "Vibrate enabled"
+msgstr "Vibrieren"
+
+msgctxt "vibrate_pref_summary"
+msgid "Choose whether your phone should vibrate on an incoming event."
+msgstr "Wähle ob dein Gerät vibrieren soll wenn eine Benachrichtung eintritt."
+
+msgctxt "distort_pos_pref_title"
+msgid "Distort location"
+msgstr "Position verfälschen"
+
+msgctxt "distort_pos_pref_summary"
+msgid "If you have privacy concerns, you can force an inaccurate location."
+msgstr ""
+"Wenn du dir Sorgen um deine Privatsphäre machst, kannst du eine "
+"verfälsche Position senden."
+
+msgctxt "distort_pos_value_do_not"
+msgid "Do not distort"
+msgstr "Nicht verfälschen"
+
+msgctxt "distort_pos_value_200m"
+msgid "200 meters"
+msgstr "200 Meter"
+
+msgctxt "distort_pos_value_500m"
+msgid "500 meters"
+msgstr "500 Meter"
+
+msgctxt "distort_pos_value_1km"
+msgid "1 kilometer"
+msgstr "1 Kilometer"
+
+msgctxt "distort_pos_value_5km"
+msgid "5 kilometers"
+msgstr "5 Kilometer"
+
+msgctxt "distort_pos_value_10km"
+msgid "10 kilometers"
+msgstr "10 Kilometer"
+
+msgctxt "play_steps"
+msgid "Step for Step"
+msgstr "Schritt für Schritt"
+
+msgctxt "skip"
+msgid "Skip"
+msgstr "Überspringen"
+
+msgctxt "close_help"
+msgid "Close Help"
+msgstr "Hilfe schließen"
+
+msgctxt "intro_title"
+msgid "How it works"
+msgstr "So funktioniert's"
+
+msgctxt "intro_spin_title"
+msgid "You spin your phone."
+msgstr "Du drehst dein Handy."
+
+msgctxt "intro_spin_text"
+msgid "You can also just shake it, or point into a direction of your choosing."
+msgstr ""
+"Du kannst es auch einfach schütteln, oder in eine beliebige Richtung "
+"zeigen."
+
+msgctxt "intro_select_title"
+msgid "The player you pointed to is notified."
+msgstr "Der Spieler zu dem zu gezeigt hast wird benachrichtigt."
+
+msgctxt "intro_select_text"
+msgid ""
+"This is determined geographically based on your and the other player's "
+"location."
+msgstr ""
+"Dies wird geographisch anhand deiner und der Position des anderen "
+"Spielers bestimmt."
+
+msgctxt "intro_receive_photo_title"
+msgid "He takes a picture and sends it to you."
+msgstr "Der Spieler macht ein Foto und sendet es dir."
+
+msgctxt "intro_peerspin_title"
+msgid "The player then spins his own phone."
+msgstr "Der Spieler dreht nun sein eigenes Gerät."
+
+msgctxt "intro_peerspin_text"
+msgid "And thus selects someone who will send a photo to him."
+msgstr "Und wählt so eine weitere Person aus, die ihm ein Foto schicken wird."
+
+msgctxt "intro_repeat_title"
+msgid "This is repeated..."
+msgstr "Das wiederholt sich..."
+
+msgctxt "intro_send_photo_title"
+msgid "...until somebody selects you to take a picture."
+msgstr "...bis jemand dich auswählt um ein Bild zu machen."
+
+msgctxt "intro_final_title"
+msgid "That's it!"
+msgstr "Das ist alles!"
+
+msgctxt "intro_final_text"
+msgid ""
+"Remember that you can leave the application at any time. You will be "
+"notified when you are being selected."
+msgstr ""
+"Vergiss nicht dass du die Anwendung jederzeit verlassen kannst. Du wirst "
+"benachrichtigt sobald ein Spieler dich auswählt."
+
+msgctxt "credits_title"
+msgid "Credits"
+msgstr "Credits"
+
+#, python-format
+msgctxt "credits_text"
+msgid "Current translation by: %s"
+msgstr "Aktuelle Übersetzung von:"
+
+msgctxt "faq_info_title"
+msgid "FAQ & Info"
+msgstr "FAQ & Info"
+
+msgctxt "faq_info_text"
+msgid ""
+"<b>I always seem to point in a different direction than the person I "
+"select is in.</b> \n"
+"\n"
+"First of all, who is selected depends obviously to a large extend on who "
+"is actually online, but also whether they are currently already in a "
+"thread of their own, or the selection frequency preference they have "
+"chosen. \n"
+"\n"
+"However, also consider that we are currently using a true (spherical) "
+"geodesy model to evaluate spins. That is, if you are in Europe pointing "
+"northwest, your extended line, if drawn on map, will pass as an arc "
+"straight through the United States and then at some point hit Australia. "
+"Try it on a globus, it's true. Currently, we don't visualize that very "
+"well inside the application. \n"
+"\n"
+"<b>How does the Autologin work?</b> \n"
+"\n"
+"It generates a username based on IDs on your SIM card and device, but "
+"note it never actually transmits the IDs themselves. \n"
+"\n"
+"<b>Spinning my device doesn't work properly.</b> \n"
+"\n"
+"Sorry about that. We are still working on it, though it's not easy. The "
+"sensors in different devices don't always behave the same, and the slow "
+"response times of the compass sensors are generally a problem. \n"
+"\n"
+"If the compass spin is triggering too easily, consider disabling it in "
+"the preferences. "
+msgstr ""
+"<b>Die Person, die ausgewählt wird, scheint sich nie in der Richtung zu "
+"befinden in die ich zeige.</b> \n"
+"\n"
+"Ersteinmal ist natürlich entscheidend wieviele Personen gerade online "
+"sind, ob diese selbst schon in einer Kette befinden, und deren Wünsche im"
+" Bezug auf Häufigkeit der Auswahl. \n"
+"\n"
+"Beachte allerdings auch dass wir aktuell ein geodäsisches Modell "
+"verwenden um die Richtung auszuwerten. In der Praxis bedeutet das "
+"beispielsweise dass wenn du in Europa nach Nordwesten zeigst, die "
+"verlängerte Linie, auf einer Karte gezeichnet, in einem Bogen durch die "
+"Vereinigten Staaten führt und schließlich irgendwann in Australien "
+"ankommt. Sieh auf einem Globus nach - stimmt wirklich. Zurzeit "
+"visualisiert die Anwendung das nicht besonders gut. \n"
+"\n"
+"<b>Wie funktioniert der Auto-Login?</b> \n"
+"\n"
+"Es wird Benutzername basierend auf der ID deiner SIM-Karte und deines "
+"Gerätes erzeugt - die IDs selber werden allerdings nicht übertragen! \n"
+"\n"
+"<b>Das Drehen funktioniert nicht richtig!</b> \n"
+"\n"
+"Tut uns leid. Wir arbeiten noch daran, allerdings ist das ganze nicht "
+"einfach. Die Sensoren der verschiedenen Geräte verhalten sich oft etwas "
+"verschieden, und die generelle Langsamkeit der Kompass-Sensoren ist ein "
+"grundsätzliches Problem. \n"
+"\n"
+"Falls das Drehen zu leicht auslöst, kannst du es in den Einstellungen "
+"deaktivieren. "
+
