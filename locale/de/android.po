@@ -980,4 +980,3 @@ msgstr ""
 "\n"
 "Falls das Drehen zu leicht auslöst, kannst du es in den Einstellungen "
 "deaktivieren. "
-

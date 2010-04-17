@@ -3,18 +3,21 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2010-03-30 11:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2010-04-05 20:05+0200\n"
+"Last-Translator:  <grremlin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.0-rc2\n"
 "Generated-By: Babel 1.0dev-r0\n"
 
 msgctxt "translator_credit"
@@ -242,21 +245,24 @@ msgstr "Я не уверен что произошло, но сервер убр
 
 msgctxt "waiting_title_initial"
 msgid "Welcome! This is you."
-msgstr ""
+msgstr "Добро пожаловать! Это вы."
 
 msgctxt "waiting_title"
 msgid "This is you."
-msgstr ""
+msgstr "Это вы."
 
 msgctxt "waiting_text"
 msgid ""
 "You need to wait until somebody selects you. This shouldn't take too "
 "long, but feel free to close the app, we will notify you."
 msgstr ""
+"Дождитесь пока кто-то вас выберет. Это не должно занять много времени, но вы "
+"можете закрыть программу, мы оповестим вас."
 
 msgctxt "waiting_error"
 msgid "I'm sorry, there are currently enough active threads already."
 msgstr ""
+"Мне очень жаль, в настоящее время существует достаточно активных потоков."
 
 msgctxt "spin_now_title_continue"
 msgid "Continue the thread!"
@@ -964,4 +970,3 @@ msgstr ""
 "реагирование компасного сенсора - большая проблема. \n"
 "\n"
 "Если компас слишком чувствителен, попробуйте отключить его в настройках.к"
-
