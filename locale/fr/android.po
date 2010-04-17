@@ -1,4 +1,4 @@
-# Translations template for PROJECT.
+# French translations for PROJECT.
 # Copyright (C) 2010 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
@@ -8,14 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2010-03-30 11:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2010-04-17 14:14+0200\n"
+"PO-Revision-Date: 2010-04-17 14:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 1.0dev-r0\n"
+"Generated-By: Babel 1.0dev\n"
 
 msgctxt "translator_credit"
 msgid "(Your Name &lt;Your E-Mail or Site&gt;)"
@@ -94,6 +95,10 @@ msgid ""
 msgstr ""
 "Vous avez été banni de ce jeu. Si vous pensez que ceci est arrivé par "
 "erreur, veuillez nous contacter."
+
+msgctxt "no_program_to_handle"
+msgid "You don't have an application installed that can do this."
+msgstr ""
 
 msgctxt "requirements_unmet_title"
 msgid "Unmet system requirements"
@@ -527,6 +532,14 @@ msgctxt "save_to_disk"
 msgid "Save"
 msgstr "Enregistrer"
 
+msgctxt "share"
+msgid "Share"
+msgstr ""
+
+msgctxt "view_externally"
+msgid "Open with..."
+msgstr ""
+
 msgctxt "mediastore_tagline"
 msgid "[I came from a World of Photo]"
 msgstr "[source : A World of Photo]"
@@ -819,8 +832,9 @@ msgctxt "vibrate_pref_title"
 msgid "Vibrate enabled"
 msgstr "Vibreur activé"
 
+#, fuzzy
 msgctxt "vibrate_pref_summary"
-msgid "Choose whether your phone should vibrate on an incoming event."
+msgid "Choose whether your phone should also vibrate when stuff happens."
 msgstr "Votre téléphone doit-il vibrer à chaque nouvel évènement ?"
 
 msgctxt "distort_pos_pref_title"
@@ -856,6 +870,26 @@ msgstr "5 kilomètres"
 msgctxt "distort_pos_value_10km"
 msgid "10 kilometers"
 msgstr "10 kilomètres"
+
+msgctxt "pref_cat_sounds"
+msgid "Notifications and Sounds"
+msgstr ""
+
+msgctxt "ringtone_pref_title"
+msgid "Photo Request Ringtone"
+msgstr ""
+
+msgctxt "ringtone_pref_summary"
+msgid "Sound to play when asked to play along."
+msgstr ""
+
+msgctxt "notification_tone_pref_title"
+msgid "Notification Tone"
+msgstr ""
+
+msgctxt "notification_tone_pref_summary"
+msgid "Sound to play when minor events occur (i.e. message received)."
+msgstr ""
 
 msgctxt "play_steps"
 msgid "Step for Step"
