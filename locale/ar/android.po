@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2010-04-17 14:14+0200\n"
+"POT-Creation-Date: 2010-04-19 01:49+0200\n"
 "PO-Revision-Date: 2010-04-17 14:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: ar <LL@li.org>\n"
@@ -209,10 +209,6 @@ msgid ""
 msgstr ""
 "فشل في إيجاد تطبيق الكاميرا. من الضروري أن تكون عندك واحدة قبل إلتقاط "
 "الصور."
-
-msgctxt "notify_title_generic"
-msgid "@string/app_name"
-msgstr "@ترادف/اسم_التطبيق"
 
 #, python-format
 msgctxt "notify_make_photo_confirm_msg"
@@ -995,4 +991,8 @@ msgstr ""
 "للمشكلة.\n"
 "\n"
 "إذا كانت تدوير البوصلة حساسة جدا ، يفضل تعطيله في الخيارات"
+
+#~ msgctxt "notify_title_generic"
+#~ msgid "@string/app_name"
+#~ msgstr "@ترادف/اسم_التطبيق"
 

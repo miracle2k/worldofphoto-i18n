@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2010-04-17 14:14+0200\n"
+"POT-Creation-Date: 2010-04-19 01:49+0200\n"
 "PO-Revision-Date: 2010-04-17 14:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr <LL@li.org>\n"
@@ -210,10 +210,6 @@ msgid ""
 msgstr ""
 "Impossible de trouver une application appareil photo sur votre téléphone."
 " Vous avez besoin de celle-ci pour faire des photos."
-
-msgctxt "notify_title_generic"
-msgid "@string/app_name"
-msgstr "@string/app_name"
 
 #, python-format
 msgctxt "notify_make_photo_confirm_msg"
@@ -1034,4 +1030,8 @@ msgstr ""
 "\n"
 "Si la rotation de la boussole est déclenchée trop facilement, pensez à la"
 " désactiver dans les préférences."
+
+#~ msgctxt "notify_title_generic"
+#~ msgid "@string/app_name"
+#~ msgstr "@string/app_name"
 

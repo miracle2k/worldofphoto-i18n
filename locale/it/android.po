@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2010-04-17 14:14+0200\n"
+"POT-Creation-Date: 2010-04-19 01:49+0200\n"
 "PO-Revision-Date: 2010-04-17 14:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: it <LL@li.org>\n"
@@ -214,10 +214,6 @@ msgid ""
 msgstr ""
 "Non trovo l'applicazione per la fotocamera. É necessario avere "
 "un'applicazione per la fotocamera per poter fare delle foto."
-
-msgctxt "notify_title_generic"
-msgid "@string/app_name"
-msgstr "@string/app_name"
 
 #, python-format
 msgctxt "notify_make_photo_confirm_msg"
@@ -1026,4 +1022,8 @@ msgstr ""
 "\n"
 "Se il giro di bussola si attiva troppo facilmente, suggeriamo di "
 "disattivarlo nelle preferenze."
+
+#~ msgctxt "notify_title_generic"
+#~ msgid "@string/app_name"
+#~ msgstr "@string/app_name"
 
