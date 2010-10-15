@@ -3,19 +3,20 @@
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2010-04-19 01:49+0200\n"
-"PO-Revision-Date: 2010-04-17 14:14+0200\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2010-05-03 02:40+0200\n"
+"Last-Translator:  <sfanara@gmail.com>\n"
 "Language-Team: it <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.0-rc2\n"
 "Generated-By: Babel 1.0dev\n"
 
 msgctxt "translator_credit"
@@ -102,6 +103,8 @@ msgstr ""
 msgctxt "no_program_to_handle"
 msgid "You don't have an application installed that can do this."
 msgstr ""
+"Non hai nessun programma installato che può completare l'operazione "
+"richiesta."
 
 msgctxt "requirements_unmet_title"
 msgid "Unmet system requirements"
@@ -254,21 +257,23 @@ msgstr ""
 
 msgctxt "waiting_title_initial"
 msgid "Welcome! This is you."
-msgstr ""
+msgstr "Benvenuto! Questo sei tu."
 
 msgctxt "waiting_title"
 msgid "This is you."
-msgstr ""
+msgstr "Questo sei tu!"
 
 msgctxt "waiting_text"
 msgid ""
 "You need to wait until somebody selects you. This shouldn't take too "
 "long, but feel free to close the app, we will notify you."
 msgstr ""
+"Devi attendere di essere selezionato. Non ci dovrebbe volere molto, ma se "
+"vuoi puoi uscire dal programma, verrai notificato. "
 
 msgctxt "waiting_error"
 msgid "I'm sorry, there are currently enough active threads already."
-msgstr ""
+msgstr "Spiacente, ci sono già abbastanza threads attivi."
 
 msgctxt "spin_now_title_continue"
 msgid "Continue the thread!"
@@ -533,11 +538,11 @@ msgstr "Salva"
 
 msgctxt "share"
 msgid "Share"
-msgstr ""
+msgstr "Condividi"
 
 msgctxt "view_externally"
 msgid "Open with..."
-msgstr ""
+msgstr "Apri con..."
 
 msgctxt "mediastore_tagline"
 msgid "[I came from a World of Photo]"
@@ -822,7 +827,6 @@ msgctxt "vibrate_pref_title"
 msgid "Vibrate enabled"
 msgstr "Vibrazione abilitata"
 
-#, fuzzy
 msgctxt "vibrate_pref_summary"
 msgid "Choose whether your phone should also vibrate when stuff happens."
 msgstr "Scegli se il telefono deve vibrare alla ricezione di un evento."
@@ -861,23 +865,23 @@ msgstr "10 Kilometri"
 
 msgctxt "pref_cat_sounds"
 msgid "Notifications and Sounds"
-msgstr ""
+msgstr "Notifiche e Suonerie"
 
 msgctxt "ringtone_pref_title"
 msgid "Photo Request Ringtone"
-msgstr ""
+msgstr "Squillo per richiesta foto"
 
 msgctxt "ringtone_pref_summary"
 msgid "Sound to play when asked to play along."
-msgstr ""
+msgstr "Suono per richiesta di continuare a giocare"
 
 msgctxt "notification_tone_pref_title"
 msgid "Notification Tone"
-msgstr ""
+msgstr "Suono di Notifica"
 
 msgctxt "notification_tone_pref_summary"
 msgid "Sound to play when minor events occur (i.e. message received)."
-msgstr ""
+msgstr "Suono per eventi minori (es. messaggio ricevuto)."
 
 msgctxt "play_steps"
 msgid "Step for Step"
@@ -1026,4 +1030,3 @@ msgstr ""
 #~ msgctxt "notify_title_generic"
 #~ msgid "@string/app_name"
 #~ msgstr "@string/app_name"
-

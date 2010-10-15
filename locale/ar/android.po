@@ -995,4 +995,3 @@ msgstr ""
 #~ msgctxt "notify_title_generic"
 #~ msgid "@string/app_name"
 #~ msgstr "@ترادف/اسم_التطبيق"
-
