@@ -1,0 +1,18 @@
+[worldofphoto.info]
+file_filter = locale/<lang>/info.po
+source_file = locale/info.pot
+source_lang = en
+
+[main]
+host = http://www.transifex.net
+
+[worldofphoto.android]
+file_filter = locale/<lang>/android.po
+source_file = locale/android.pot
+source_lang = en
+
+[worldofphoto.server]
+file_filter = locale/<lang>/server.po
+source_file = locale/server.pot
+source_lang = en
+
