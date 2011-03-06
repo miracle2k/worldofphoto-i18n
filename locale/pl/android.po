@@ -562,7 +562,7 @@ msgstr "Wiadomość od:"
 msgctxt "message_rating_info"
 msgid "&lt;b&gt;%s&lt;/b&gt; has rated your photo &lt;b&gt;%d stars&lt;/b&gt;."
 msgstr ""
-"&lt;b&gt;%s&lt;/b%gt; ocenił twoje zdjęcie na &lt;b&gt;%d "
+"&lt;b&gt;%s&lt;/b&gt; ocenił twoje zdjęcie na &lt;b&gt;%d "
 "gwiazdek&lt;/b&gt;."
 
 msgctxt "respond_to_message"

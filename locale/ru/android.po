@@ -931,7 +931,7 @@ msgstr "Кредиты"
 #, python-format
 msgctxt "credits_text"
 msgid "Current translation by: %s"
-msgstr "Перевод:% S"
+msgstr "Перевод: %s"
 
 msgctxt "faq_info_title"
 msgid "FAQ & Info"

@@ -202,7 +202,7 @@ msgstr "אין. אפשרות למצא את המצלמה. יש צורך באחת 
 #, python-format
 msgctxt "notify_make_photo_confirm_msg"
 msgid "%s has asked you to make a photo."
-msgstr "%t ביקש ממך ליצור תמונה עבורו"
+msgstr "%s ביקש ממך ליצור תמונה עבורו"
 
 #, python-format
 msgctxt "notify_make_photo_msg"
